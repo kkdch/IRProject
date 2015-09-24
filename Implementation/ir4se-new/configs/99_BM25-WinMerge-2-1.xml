@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameters>
+	
+	<!-- General parameters (mandatory) -->
+	<param name="name_config">BM25-WinMerge-2-1</param>
+	<param name="ret_model">BM25</param>
+	<param name="base_dir">C:/Users/ojcchar/Documents/Temp/ir_proj/Raw Data</param>
+	<param name="system">WinMerge</param>
+	
+	<!-- Specific parameter model -->
+	<param name="k1">2</param>
+	<param name="b">1</param>
+	
+</parameters>

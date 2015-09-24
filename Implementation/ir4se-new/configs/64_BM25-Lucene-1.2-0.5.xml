@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameters>
+	
+	<!-- General parameters (mandatory) -->
+	<param name="name_config">BM25-Lucene-1.2-0.5</param>
+	<param name="ret_model">BM25</param>
+	<param name="base_dir">C:/Users/ojcchar/Documents/Temp/ir_proj/Raw Data</param>
+	<param name="system">Lucene</param>
+	
+	<!-- Specific parameter model -->
+	<param name="k1">1.2</param>
+	<param name="b">0.5</param>
+	
+</parameters>

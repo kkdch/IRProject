@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameters>
+	
+	<!-- General parameters (mandatory) -->
+	<param name="ret_model">BM25</param>
+	<param name="system">FileZillaDummy</param>
+	<param name="base_dir">test_data/raw_data</param>
+	<param name="name_config">[ BMBM21.21.2-Filezilla-1.BM21.2-0.1 ]</param>
+	
+	<!-- Specific parameter model -->
+	<param name="k1">0.7</param>
+	<param name="b">1.2</param>
+	
+</parameters>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameters>
+	
+	<!-- General parameters (mandatory) -->
+	<param name="ret_model">PLSA</param>
+	<param name="system">FileZilla</param>
+	<param name="base_dir">test_data/raw_data</param>
+	<param name="name_config">BM25-k1=1-b=1</param>
+	
+	<!-- Specific parameter model -->
+	<param name="num_iters">50</param>
+	<param name="num_topics">4</param>
+	
+</parameters>

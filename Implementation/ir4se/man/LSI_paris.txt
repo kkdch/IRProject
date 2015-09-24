@@ -1,0 +1,31 @@
+LSI in paris
+
+This implementation is based on  "Latent Semantic Indicing Homepage for Gordon's Workgroup"
+For more info: http://www.unc.edu/~hhalpin/lsi/
+Useful file: http://www.unc.edu/~hhalpin/lsi/man/NOTES.usinglsi
+
+Steps for using LSI
+This is the easy way - if you don't have permission to modify the LSI folder, use an external location
+
+Connect to paris.cs.wayne.edu
+	User: wsuid
+	Pass: doineedtospellitout?
+
+Navigate to /wsu/proj/severegrp/severe/LSI
+
+Now: 
+
+-	Copy the corpus file in a subdirectory (lets call it dir) inside the folder DATA. 
+-	Do dos2unix for every corpus file if needed
+-	Copy the file containing the set of queries (“query”), and the corresponding file containing the query relevance judgments( “qrels.text”) in dir. 
+-	The file “query” should have one query on one line, and the queries separated by a blank line (e.g., the text on the first line will be considered as the first query, the text on the third line will be considered as the second query, etc.)
+-	The file “qrels.text” needs to contain the relevance judgments for each of the queries listed in the file “query”. Each of these relevance judgments look like “03 348”, where 03 is the number of the query, i.e., the third query (IMPORTANT: the number representing the query needs to have a 0 in front if it is < 10, i.e., “03”, not “3”), and 348 is the number of the relevant document, i.e., its position/order number in the corpus file that you previously transferred to dir
+-	Create a subdirectory, lets call it subdir for your indexing run. The index run will be, therefore, performed inside the dir/subdir directory. This is where the files resulting after indexing, i.e., keys.pag, keys.dir, etc. will be placed.
+-	From the dir/subdir directory, run pindex, with the following command:
+
+../../../bin/pindex -l 2 -m 1000 -M 1000000 -nc 0 -w tf idf -kg 0 -kd 0 -n 100 -P ../corpus.txt
+
+where (../../../bin/) is the path to the bin directory of LSI.
+-	run from the same directory, i.e., dir/subdir the command (../../../bin/)runq, ,where (../../../bin/) is the path to the bin directory of LSI. This will run and evaluate all your queries, which you previously placed in the file “query”. The result will be placed in files ending in “.roc” and “.res”, with a pair being generated for each query. 
+-	The “.res” file contains the results, in the following format of the columns:  document#  cosineScore  rank. Rank is the position of the document in the list of search results and is what you are interested in.
+-	The “.roc” file contains data about the performance of the query based on the ROC curve.

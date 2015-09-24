@@ -1,0 +1,22 @@
+1
+save directori after reconnect 
+2
+src.interface.viewheader.cpp.CLocalViewHeader.OnStateChange(unsigned,int,const wxString)
+src.interface.viewheader.cpp.CRemoteViewHeader.OnStateChange(unsigned,int,const wxString)
+
+2
+renam file exist name  updat file list 
+1
+src.engine.directorycache.cpp.CDirectoryCache.Rename(const CServer,const CServerPath,const wxString,const CServerPath,const wxString)
+
+
+2
+set us medium larg icon 
+7
+src.interface.themeprovider.cpp.CThemeProvider.GetAllImages(const wxString,wxSize)
+src.interface.optionspage_themes.cpp.COptionsPageThemes.LoadPage()
+src.interface.optionspage_themes.cpp.COptionsPageThemes.SavePage()
+src.interface.optionspage_themes.cpp.COptionsPageThemes.OnThemeChange(wxCommandEvent)
+src.interface.optionspage_themes.cpp.COptionsPageThemes.~COptionsPageThemes()
+src.interface.Mainfrm.cpp.CMainFrame.CreateToolBar()
+src.interface.Mainfrm.cpp.CMainFrame.OnMenuEditSettings(wxCommandEvent)

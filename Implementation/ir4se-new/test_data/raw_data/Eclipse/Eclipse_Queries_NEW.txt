@@ -1,0 +1,582 @@
+1
+cv extssh extssh tell user ssh server compat protocol 
+1
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.connect(iprogressmonitor)
+
+2
+packet ssh packettyp smsg server kei remoteloc host cipher modulu 
+1
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.connect(iprogressmonitor)
+
+3
+nice ssh client initi connect server get server revis except tell user connect method oper ssh2 
+1
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.connect(iprogressmonitor)
+
+4
+nice ssh client initi connect server server revis tell user connect oper 
+1
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.connect(iprogressmonitor)
+
+5
+ssh client server revis connect 
+1
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.connect(iprogressmonitor)
+
+6
+ssh packet connect port password packettyp server cmsg locat sshserverconnect 
+1
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.connect(iprogressmonitor)
+
+7
+cv core send larg file result in excess memori usag 
+1
+plugins.org.eclipse.team.cvs.core.src.org.eclipse.team.internal.ccvs.core.client.session.java.session.sendfile(icvsfile,boolean,iprogressmonitor)
+
+8
+file mfile send monitor binari sendfil zout bout size isbinari 
+1
+plugins.org.eclipse.team.cvs.core.src.org.eclipse.team.internal.ccvs.core.client.session.java.session.sendfile(icvsfile,boolean,iprogressmonitor)
+
+9
+session send sendfil buffer entir file in memori convert line delimit in text file gzip ing text binari file place upper bound larg buffer file larger size read disk twice comput size send content 
+1
+plugins.org.eclipse.team.cvs.core.src.org.eclipse.team.internal.ccvs.core.client.session.java.session.sendfile(icvsfile,boolean,iprogressmonitor)
+
+10
+session send sendfil buffer entir in memori convert line delimit in gzip ing binari place upper bound larg buffer larger read disk twice comput send content 
+1
+plugins.org.eclipse.team.cvs.core.src.org.eclipse.team.internal.ccvs.core.client.session.java.session.sendfile(icvsfile,boolean,iprogressmonitor)
+
+11
+maximum size buffer file 
+1
+plugins.org.eclipse.team.cvs.core.src.org.eclipse.team.internal.ccvs.core.client.session.java.session.sendfile(icvsfile,boolean,iprogressmonitor)
+
+12
+size maximum file state max maxfilestates permit fail histori valu 
+1
+plugins.org.eclipse.team.cvs.core.src.org.eclipse.team.internal.ccvs.core.client.session.java.session.sendfile(icvsfile,boolean,iprogressmonitor)
+
+13
+face jface text editor leav black rectangl content assist text insert 
+1
+plugins.org.eclipse.ui.eclipse jface text.org.eclipse.jface.text.contentassist.contextinformationpopup.java.contextinformationpopup.internalshowcontextframe(contextframe,boolean)
+
+14
+assist contentassistcomposit prefer content contentassistprefer javaeditorpreferencepag javauimessag autoactiv label java 
+1
+plugins.org.eclipse.ui.eclipse jface text.org.eclipse.jface.text.contentassist.contextinformationpopup.java.contextinformationpopup.internalshowcontextframe(contextframe,boolean)
+
+15
+found problem migrat editor base face jface text v10 v20 driver found after insert select complet propos context inform popup caus black rectangl appear top displai attach screen shot trace appear rectangl rectangl just after go in busi indic busyind show showwhil 
+1
+plugins.org.eclipse.ui.eclipse jface text.org.eclipse.jface.text.contentassist.contextinformationpopup.java.contextinformationpopup.internalshowcontextframe(contextframe,boolean)
+
+16
+found problem editor base face jface driver found after insert complet propos context inform popup caus black rectangl appear top displai attach screen shot trace appear rectangl rectangl after in busi indic busyind show showwhil 
+1
+plugins.org.eclipse.ui.eclipse jface text.org.eclipse.jface.text.contentassist.contextinformationpopup.java.contextinformationpopup.internalshowcontextframe(contextframe,boolean)
+
+17
+migrat editor face jface text complet propos 
+1
+plugins.org.eclipse.ui.eclipse jface text.org.eclipse.jface.text.contentassist.contextinformationpopup.java.contextinformationpopup.internalshowcontextframe(contextframe,boolean)
+
+18
+propos complet templateresult result ijavacompletionpropos document font ftemplateengin viewer documentoffset 
+1
+plugins.org.eclipse.ui.eclipse jface text.org.eclipse.jface.text.contentassist.contextinformationpopup.java.contextinformationpopup.internalshowcontextframe(contextframe,boolean)
+
+19
+recreat test suit allow add suit 
+3
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.handlefieldchanged(string)
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.setvisible(boolean)
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.testsuitechanged()
+
+20
+suit test fsuiteinfo tree info treeitem suiteinfo treeentri item testinfo 
+3
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.handlefieldchanged(string)
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.setvisible(boolean)
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.testsuitechanged()
+
+21
+test suit test allow cascad test recreat test suit allow add suit result in recurs call suit end caus stack overflow run sure believ previous in situt suit ad test suit oppos suit prevent happen prefer behaviour make chain suit easier search sub packag suit special just need handl better 
+3
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.handlefieldchanged(string)
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.setvisible(boolean)
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.testsuitechanged()
+
+22
+test suit test allow cascad test recreat test suit allow suit in recurs suit end caus stack overflow run believ previous in suit ad test suit oppos suit prevent happen prefer behaviour make chain suit easier search sub packag suit special need better 
+3
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.handlefieldchanged(string)
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.setvisible(boolean)
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.testsuitechanged()
+
+23
+suit test cascad 
+3
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.handlefieldchanged(string)
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.setvisible(boolean)
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.testsuitechanged()
+
+24
+suit test testsuit runfail testclass remotetestrunn testdecor suiteclassnam pack sendtre 
+3
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.handlefieldchanged(string)
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.setvisible(boolean)
+plugins.org.eclipse.jdt.junit.src.org.eclipse.jdt.internal.junit.wizards.newtestsuitecreationwizardpage.java.newtestsuitecreationwizardpage.testsuitechanged()
+
+25
+dav reselect locat give mislead warn 
+1
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.target.configuretargetwizard.java.configuretargetwizard.setmapping(iwizardcontainer,iproject,site,ipath)
+
+26
+davclient dav client warn locat code iloc resourcehandl abstractresourcehandl valu 
+1
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.target.configuretargetwizard.java.configuretargetwizard.setmapping(iwizardcontainer,iproject,site,ipath)
+
+27
+choos deploi target site project deploi select target site warn error tell delpoi site confirm want overwrit just ignor in step deploi project site foo choos deploi target site select site foo warn messag 
+1
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.target.configuretargetwizard.java.configuretargetwizard.setmapping(iwizardcontainer,iproject,site,ipath)
+
+28
+choos deploi target site project deploi target site warn tell site confirm want overwrit ignor in step deploi project site foo choos deploi target site site foo warn 
+1
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.target.configuretargetwizard.java.configuretargetwizard.setmapping(iwizardcontainer,iproject,site,ipath)
+
+29
+deploi target site deploi overwrit 
+1
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.target.configuretargetwizard.java.configuretargetwizard.setmapping(iwizardcontainer,iproject,site,ipath)
+
+30
+directori deploi evalu snippet engin file project output outputdirectori target 
+1
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.target.configuretargetwizard.java.configuretargetwizard.setmapping(iwizardcontainer,iproject,site,ipath)
+
+31
+hover help stop work after mous end 
+1
+plugins.org.eclipse.ui.eclipse jface text.org.eclipse.jface.text.textviewerhovermanager.java.textviewerhovermanager.computeinformation()
+
+32
+hover fhoverarea mous epsilon subject area fsubjectcontrol event inform mousehov 
+1
+plugins.org.eclipse.ui.eclipse jface text.org.eclipse.jface.text.textviewerhovermanager.java.textviewerhovermanager.computeinformation()
+
+33
+stabl build in in editor move mous whitespac end like lower right region stai sec mous text in expect hover help hover help longer work tri toggl hover help button switch editor back none method bring hoverhelp back need close reopen hover help back 
+1
+plugins.org.eclipse.ui.eclipse jface text.org.eclipse.jface.text.textviewerhovermanager.java.textviewerhovermanager.computeinformation()
+
+34
+stabl build in in editor move mous whitespac end lower right region stai sec mous in expect hover help hover help longer work toggl hover help button switch editor back bring back need close reopen hover help back 
+1
+plugins.org.eclipse.ui.eclipse jface text.org.eclipse.jface.text.textviewerhovermanager.java.textviewerhovermanager.computeinformation()
+
+35
+java editor help file 
+1
+plugins.org.eclipse.ui.eclipse jface text.org.eclipse.jface.text.textviewerhovermanager.java.textviewerhovermanager.computeinformation()
+
+36
+help editor context contextid id javauihelplisten javaeditor java work find 
+1
+plugins.org.eclipse.ui.eclipse jface text.org.eclipse.jface.text.textviewerhovermanager.java.textviewerhovermanager.computeinformation()
+
+37
+team ui prefer work export 
+6
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.setallignores(string[],boolean[])
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.initializepluginignores()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.saveignorestate()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.writeignorestate(dataoutputstream)
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.readignorestate()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.shutdown()
+
+38
+prefer team store plugin teampreferencepag ui teamuiplugin incom outgo startup 
+6
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.setallignores(string[],boolean[])
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.initializepluginignores()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.saveignorestate()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.writeignorestate(dataoutputstream)
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.readignorestate()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.shutdown()
+
+39
+build follow prefer transfer workspac us export prefer featur ensur set save in read plug in prefer store possibl team us incom outgo team content add remov chang team ignor resourc add remov select 
+6
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.setallignores(string[],boolean[])
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.initializepluginignores()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.saveignorestate()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.writeignorestate(dataoutputstream)
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.readignorestate()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.shutdown()
+
+40
+build follow prefer transfer workspac export prefer featur ensur save in read plug in prefer store possibl team incom outgo team content team ignor 
+6
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.setallignores(string[],boolean[])
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.initializepluginignores()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.saveignorestate()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.writeignorestate(dataoutputstream)
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.readignorestate()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.shutdown()
+
+41
+prefer 
+6
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.setallignores(string[],boolean[])
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.initializepluginignores()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.saveignorestate()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.writeignorestate(dataoutputstream)
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.readignorestate()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.shutdown()
+
+42
+prefer store preferencemanag manang ipreferencestor fpreferencestor manag getpreferencestor getpreferencemanag preferencestor 
+6
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.setallignores(string[],boolean[])
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.initializepluginignores()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.saveignorestate()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.writeignorestate(dataoutputstream)
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.readignorestate()
+plugins.org.eclipse.team.core.src.org.eclipse.team.core.team.java.team.shutdown()
+
+43
+reus configur project wizard main page configureprojectwizardmainpag target mgmt lead incorrect resourc in dialog 
+2
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.configureprojectwizardmainpage.java.configureprojectwizardmainpage.createcontrol(composite)
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.target.configuretargetwizard.java.configuretargetwizard.addpages()
+
+44
+page wizard mainpag mappingpag main site map addpag wizban iwizardpag 
+2
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.configureprojectwizardmainpage.java.configureprojectwizardmainpage.createcontrol(composite)
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.target.configuretargetwizard.java.configuretargetwizard.addpages()
+
+45
+step reproduc bring site explor view start target site wizard notic line directli listbox sai select repositori type refer repositori in after investig mike appear caus reus org eclips team intern ui configur project wizard main page configureprojectwizardmainpag target wizard feel problem solv ad resourc paramet constructor 
+2
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.configureprojectwizardmainpage.java.configureprojectwizardmainpage.createcontrol(composite)
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.target.configuretargetwizard.java.configuretargetwizard.addpages()
+
+46
+step reproduc bring site explor view start target site wizard notic line directli repositori refer repositori in after investig appear caus reus org eclips team intern ui configur project wizard main configureprojectwizardmainpag target wizard feel problem solv ad paramet constructor 
+2
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.configureprojectwizardmainpage.java.configureprojectwizardmainpage.createcontrol(composite)
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.target.configuretargetwizard.java.configuretargetwizard.addpages()
+
+47
+wizard repositori type configur project 
+2
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.configureprojectwizardmainpage.java.configureprojectwizardmainpage.createcontrol(composite)
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.target.configuretargetwizard.java.configuretargetwizard.addpages()
+
+48
+project workbench iconfigurationwizard wizard iworkbench configur iproject configureprojectwizard init getwizardlabel 
+2
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.configureprojectwizardmainpage.java.configureprojectwizardmainpage.createcontrol(composite)
+plugins.org.eclipse.team.ui.src.org.eclipse.team.internal.ui.target.configuretargetwizard.java.configuretargetwizard.addpages()
+
+49
+f1 doesn work help window open 
+1
+plugins.org.eclipse.help.ui.win32.src.org.eclipse.help.ui.internal.browser.win32.iehost.java.iehost.run()
+
+50
+work edit editworkingset set wizard workingset help window editpag dialog 
+1
+plugins.org.eclipse.help.ui.win32.src.org.eclipse.help.ui.internal.browser.win32.iehost.java.iehost.run()
+
+51
+help window open f1 work fine open subsequ f1 request simpli ignor follow perspect click explor tab titl press f1 popup select topic explor view point help window open show select topic leav help window open back perspect hierarchi view press f1 popup appear topic relat hierarchi view select all close help window open step repeat step help window appear show hierarchi view relat topic note us wsdd base wswb 
+1
+plugins.org.eclipse.help.ui.win32.src.org.eclipse.help.ui.internal.browser.win32.iehost.java.iehost.run()
+
+52
+help window open f1 work fine open subsequ f1 request simpli ignor follow perspect click explor tab titl press f1 popup topic explor view point help window open show topic leav help window open back perspect hierarchi view press f1 popup appear topic relat hierarchi view close help window open step repeat step help window appear show hierarchi view relat topic note base 
+1
+plugins.org.eclipse.help.ui.win32.src.org.eclipse.help.ui.internal.browser.win32.iehost.java.iehost.run()
+
+53
+f1 help window 
+1
+plugins.org.eclipse.help.ui.win32.src.org.eclipse.help.ui.internal.browser.win32.iehost.java.iehost.run()
+
+54
+help window action resettoolbaract iscontexthelpdisplai shell context reset newshel workbench 
+1
+plugins.org.eclipse.help.ui.win32.src.org.eclipse.help.ui.internal.browser.win32.iehost.java.iehost.run()
+
+55
+properti dialog repo properti info dialog label resiz dialog 
+1
+plugins.org.eclipse.ui.eclipse ui.org.eclipse.ui.internal.dialogs.resourceinfopage.java.resourceinfopage.createbasicinfogroup(composite,iresource)
+
+56
+dialog select properti file elementlistselectiondialog provid element wizardpage2 label nlsui 
+1
+plugins.org.eclipse.ui.eclipse ui.org.eclipse.ui.internal.dialogs.resourceinfopage.java.resourceinfopage.createbasicinfogroup(composite,iresource)
+
+57
+in resourc perspect navig pane select deep in directori tree open properti dialog resiz dialog full path locat observ label resiz dialog thank gari 
+1
+plugins.org.eclipse.ui.eclipse ui.org.eclipse.ui.internal.dialogs.resourceinfopage.java.resourceinfopage.createbasicinfogroup(composite,iresource)
+
+58
+in perspect navig pane deep in directori tree open properti dialog resiz dialog full path locat observ label resiz dialog 
+1
+plugins.org.eclipse.ui.eclipse ui.org.eclipse.ui.internal.dialogs.resourceinfopage.java.resourceinfopage.createbasicinfogroup(composite,iresource)
+
+59
+directori tree file navig pane properti path locat 
+1
+plugins.org.eclipse.ui.eclipse ui.org.eclipse.ui.internal.dialogs.resourceinfopage.java.resourceinfopage.createbasicinfogroup(composite,iresource)
+
+60
+directori locat file meta pi read directoryloc keyr pdebuild path 
+1
+plugins.org.eclipse.ui.eclipse ui.org.eclipse.ui.internal.dialogs.resourceinfopage.java.resourceinfopage.createbasicinfogroup(composite,iresource)
+
+61
+cv extssh vulner man in middl attack dn poison etc 
+3
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.connect(iprogressmonitor)
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.receive_ssh_smsg_public_key(serverpacket)
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.send_ssh_cmsg_session_key(byte[],byte[],byte[],byte[],byte[],byte[])
+
+62
+middl start i1 arrai middlelength i2 end sort selectableitem currentposit 
+3
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.connect(iprogressmonitor)
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.receive_ssh_smsg_public_key(serverpacket)
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.send_ssh_cmsg_session_key(byte[],byte[],byte[],byte[],byte[],byte[])
+
+63
+test linux gtk2 mac os carbon iall version vulner us share codebas implement descript problem eclips ship pure base ssh1 client us cv enabl select extssh method authent cv repositori client suppli ssh1 client support password authent user us standard ext method kei authent suitabl ssh agent pagent openssh us eclips extssh compon histori host kei kept enabl attack poison name resolut eclips client potenti steal password modifi ssh daemon server control step reproduc set access extern cv repositori extssh password prefer usernam doesn exist local notm close eclips edit host point ssh server localhost open eclips choos brows repositori cv perspect in auth log messag like sshd fail none illeg user notm xxx xxx xxx xxx port xxxx sshd fail password illeg user notm xxx xxx xxx xxx port xxxx in log var log auth log in mandrak expect result prompt sai kei chang malici user gain access valuabl account workaround us ssh2 client kei ext method 
+3
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.connect(iprogressmonitor)
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.receive_ssh_smsg_public_key(serverpacket)
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.send_ssh_cmsg_session_key(byte[],byte[],byte[],byte[],byte[],byte[])
+
+64
+test linux mac carbon version vulner share implement descript problem eclips ship pure base client cv enabl extssh authent cv repositori client suppli client support password authent user standard ext kei authent suitabl ssh agent eclips extssh compon histori host kei kept enabl resolut eclips client potenti password modifi ssh daemon server step reproduc extern cv repositori extssh password prefer usernam doesn exist local close eclips edit host point ssh server localhost open eclips choos brows repositori cv perspect in auth log fail illeg user xxx xxx xxx xxx port xxxx fail password illeg user xxx xxx xxx xxx port xxxx in log var log auth log in expect prompt kei user gain valuabl account workaround client kei ext 
+3
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.connect(iprogressmonitor)
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.receive_ssh_smsg_public_key(serverpacket)
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.send_ssh_cmsg_session_key(byte[],byte[],byte[],byte[],byte[],byte[])
+
+65
+ssh cv extssh repositori authent 
+3
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.connect(iprogressmonitor)
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.receive_ssh_smsg_public_key(serverpacket)
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.send_ssh_cmsg_session_key(byte[],byte[],byte[],byte[],byte[],byte[])
+
+66
+packet packettyp password ssh authent smsg repositori cv user locat 
+3
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.connect(iprogressmonitor)
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.receive_ssh_smsg_public_key(serverpacket)
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.send_ssh_cmsg_session_key(byte[],byte[],byte[],byte[],byte[],byte[])
+
+67
+vcm prefer page cut in high contrast 
+1
+plugins.org.eclipse.team.cvs.ui.src.org.eclipse.team.internal.ccvs.ui.extmethodpreferencepage.java.extmethodpreferencepage.createcontents(composite)
+
+68
+page prefer preferencepag newpag ipreferencepag appear getpreferencepag setpag node setpreferencepag 
+1
+plugins.org.eclipse.team.cvs.ui.src.org.eclipse.team.internal.ccvs.ui.extmethodpreferencepage.java.extmethodpreferencepage.createcontents(composite)
+
+69
+follow team prefer page cut in high ontrast contrast team cv ext connect method label decor 
+1
+plugins.org.eclipse.team.cvs.ui.src.org.eclipse.team.internal.ccvs.ui.extmethodpreferencepage.java.extmethodpreferencepage.createcontents(composite)
+
+70
+follow team prefer cut in high contrast team cv ext connect label decor 
+1
+plugins.org.eclipse.team.cvs.ui.src.org.eclipse.team.internal.ccvs.ui.extmethodpreferencepage.java.extmethodpreferencepage.createcontents(composite)
+
+71
+team prefer page 
+1
+plugins.org.eclipse.team.cvs.ui.src.org.eclipse.team.internal.ccvs.ui.extmethodpreferencepage.java.extmethodpreferencepage.createcontents(composite)
+
+72
+prefer page team preferencepag teampreferencepag store tableentri entri extens incom 
+1
+plugins.org.eclipse.team.cvs.ui.src.org.eclipse.team.internal.ccvs.ui.extmethodpreferencepage.java.extmethodpreferencepage.createcontents(composite)
+
+73
+resourc unifi tree unifiedtre ensur folder exist 
+2
+plugins.org.eclipse.core.resources.src.org.eclipse.core.internal.localstore.unifiedtree.java.unifiedtree.addchildrenfromfilesystem(unifiedtreenode,string,object[],int)
+plugins.org.eclipse.core.resources.src.org.eclipse.core.internal.localstore.unifiedtree.java.unifiedtree.createchildnodefromfilesystem(unifiedtreenode,string,string)
+
+74
+existsworkspac unifiedtre localloc tree unifi local resourc stat localnam locat 
+2
+plugins.org.eclipse.core.resources.src.org.eclipse.core.internal.localstore.unifiedtree.java.unifiedtree.addchildrenfromfilesystem(unifiedtreenode,string,object[],int)
+plugins.org.eclipse.core.resources.src.org.eclipse.core.internal.localstore.unifiedtree.java.unifiedtree.createchildnodefromfilesystem(unifiedtreenode,string,string)
+
+75
+build i20030211 us nativ linux window unifi tree unifiedtre find system assum exist folder differ reason return file listfil actual exist core system librari corefilesystemlibrari stat getstat return problem appear user execut refresh oper moment found in system assum folder correspond resourc creat in workspac second refresh folder correspond resourc found in system remov workspac bug reveal problem bug bug 
+2
+plugins.org.eclipse.core.resources.src.org.eclipse.core.internal.localstore.unifiedtree.java.unifiedtree.addchildrenfromfilesystem(unifiedtreenode,string,object[],int)
+plugins.org.eclipse.core.resources.src.org.eclipse.core.internal.localstore.unifiedtree.java.unifiedtree.createchildnodefromfilesystem(unifiedtreenode,string,string)
+
+76
+build nativ linux window unifi tree unifiedtre find system assum exist folder differ reason listfil actual exist system librari corefilesystemlibrari stat getstat problem appear user execut refresh oper moment found in system assum folder correspond in workspac second refresh folder correspond found in system workspac bug reveal problem bug bug 
+2
+plugins.org.eclipse.core.resources.src.org.eclipse.core.internal.localstore.unifiedtree.java.unifiedtree.addchildrenfromfilesystem(unifiedtreenode,string,object[],int)
+plugins.org.eclipse.core.resources.src.org.eclipse.core.internal.localstore.unifiedtree.java.unifiedtree.createchildnodefromfilesystem(unifiedtreenode,string,string)
+
+77
+unifi tree file folder core librari 
+2
+plugins.org.eclipse.core.resources.src.org.eclipse.core.internal.localstore.unifiedtree.java.unifiedtree.addchildrenfromfilesystem(unifiedtreenode,string,object[],int)
+plugins.org.eclipse.core.resources.src.org.eclipse.core.internal.localstore.unifiedtree.java.unifiedtree.createchildnodefromfilesystem(unifiedtreenode,string,string)
+
+78
+unifi stat node unifiedtreenod resourc file child childnam locat target 
+2
+plugins.org.eclipse.core.resources.src.org.eclipse.core.internal.localstore.unifiedtree.java.unifiedtree.addchildrenfromfilesystem(unifiedtreenode,string,object[],int)
+plugins.org.eclipse.core.resources.src.org.eclipse.core.internal.localstore.unifiedtree.java.unifiedtree.createchildnodefromfilesystem(unifiedtreenode,string,string)
+
+79
+support creat anonym ftp connect 
+1
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.createcontrol(composite)
+
+80
+socket ftp anonym connect ftpcommunicationexcept timeout ftpclient monitor stream commun 
+1
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.createcontrol(composite)
+
+81
+ftp target support assum user password checkbox support anonym connect 
+1
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.createcontrol(composite)
+
+82
+port password connect repositori hostnam usernam cv host locat user 
+1
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.createcontrol(composite)
+
+83
+ftp target user password 
+1
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.createcontrol(composite)
+
+84
+password port usernam passiv usepass hostnam ftp url ftpserverloc authent 
+1
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.createcontrol(composite)
+
+85
+ftp valid ftp url reject 
+2
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.getcurrentvalues()
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.validatefields()
+
+86
+ftp remot url ftpremotetargetresourc ftpwizardmainpag resourc setpagecomplet target timeout page 
+2
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.getcurrentvalues()
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.validatefields()
+
+87
+enter ott4f ott oti com ftp url reject invalid most ftp program enter ftp ott4f ott oti com connect format option ftp option accept 
+2
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.getcurrentvalues()
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.validatefields()
+
+88
+enter oti com ftp url reject most ftp program enter ftp oti com connect format option ftp option accept 
+2
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.getcurrentvalues()
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.validatefields()
+
+89
+ftp valid url 
+2
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.getcurrentvalues()
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.validatefields()
+
+90
+ftp ftpwizardmainpag url combo main page passiv timeout usernam composit 
+2
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.getcurrentvalues()
+plugins.org.eclipse.team.ftp.src.org.eclipse.team.internal.ftp.ui.FTPMainPage.java.FTPMainPage.validatefields()
+
+91
+dav choos add bad site let user modifi site properti 
+1
+plugins.org.eclipse.team.webdav.src.org.eclipse.team.internal.webdav.ui.WebDavConfigurationWizard.java.WebDavConfigurationWizard.performfinish()
+
+92
+site properti sitebookmark modifi sitenam newsit bookmark siteurl web dav 
+1
+plugins.org.eclipse.team.webdav.src.org.eclipse.team.internal.webdav.ui.WebDavConfigurationWizard.java.WebDavConfigurationWizard.performfinish()
+
+93
+site explor add site bogu url site ad present hit finish inform error site get ad argu featur exampl connect internet time cv offer keep 
+1
+plugins.org.eclipse.team.webdav.src.org.eclipse.team.internal.webdav.ui.WebDavConfigurationWizard.java.WebDavConfigurationWizard.performfinish()
+
+94
+site explor site bogu url site ad present hit finish inform site ad featur exampl connect internet time cv offer keep 
+1
+plugins.org.eclipse.team.webdav.src.org.eclipse.team.internal.webdav.ui.WebDavConfigurationWizard.java.WebDavConfigurationWizard.performfinish()
+
+95
+site explor bogu url add 
+1
+plugins.org.eclipse.team.webdav.src.org.eclipse.team.internal.webdav.ui.WebDavConfigurationWizard.java.WebDavConfigurationWizard.performfinish()
+
+96
+site url siteurl preservedexcept firststatu retri statu isit preserv retryexcept 
+1
+plugins.org.eclipse.team.webdav.src.org.eclipse.team.internal.webdav.ui.WebDavConfigurationWizard.java.WebDavConfigurationWizard.performfinish()
+
+97
+wizard recreat return page 
+1
+plugins/org.eclipse.ui/Eclipse UI/org/eclipse/ui/internal/dialogs/NewWizardNewPage.java/NewWizardNewPage handlewizardselection(selectionchangedevent)
+
+98
+wizard categori expand page select store expandedel expandedelementpath selectedcategori element 
+1
+plugins/org.eclipse.ui/Eclipse UI/org/eclipse/ui/internal/dialogs/NewWizardNewPage.java/NewWizardNewPage handlewizardselection(selectionchangedevent)
+
+99
+wizard dialog show page show start page showstartingpag page get control support lazi page control creation work fine wizard call first time after dispos page page get control getcontrol return dispos control page creat control createcontrol page contain call overwrot method dispos dispos set control setcontrol page workaround suggest add method wizard page wizardpag 
+1
+plugins/org.eclipse.ui/Eclipse UI/org/eclipse/ui/internal/dialogs/NewWizardNewPage.java/NewWizardNewPage handlewizardselection(selectionchangedevent)
+
+100
+wizard dialog show show start showstartingpag support lazi creation work fine wizard first time after getcontrol createcontrol setcontrol workaround suggest wizard wizardpag 
+1
+plugins/org.eclipse.ui/Eclipse UI/org/eclipse/ui/internal/dialogs/NewWizardNewPage.java/NewWizardNewPage handlewizardselection(selectionchangedevent)
+
+101
+wizard dialog control dispos 
+1
+plugins/org.eclipse.ui/Eclipse UI/org/eclipse/ui/internal/dialogs/NewWizardNewPage.java/NewWizardNewPage handlewizardselection(selectionchangedevent)
+
+102
+wizard page dispos defaultimag iwizardpag selectedwizardnod iwizard code newwizard dialog 
+1
+plugins/org.eclipse.ui/Eclipse UI/org/eclipse/ui/internal/dialogs/NewWizardNewPage.java/NewWizardNewPage handlewizardselection(selectionchangedevent)
+

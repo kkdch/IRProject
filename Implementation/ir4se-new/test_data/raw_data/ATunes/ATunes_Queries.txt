@@ -1,0 +1,293 @@
+1
+f11 option 
+2
+src.net.sourceforge.atunes.gui.views.dialogs.fullscreen.fullscreendialog.java.fullscreendialog.setfullscreen(boolean)
+src.net.sourceforge.atunes.gui.views.dialogs.fullscreen.fullscreendialog.java.fullscreendialog.setvisible(boolean)
+
+1
+hi click view full screen f11 full screen appear second after tune atun back standard view thank stefania 
+2
+src.net.sourceforge.atunes.gui.views.dialogs.fullscreen.fullscreendialog.java.fullscreendialog.setfullscreen(boolean)
+src.net.sourceforge.atunes.gui.views.dialogs.fullscreen.fullscreendialog.java.fullscreendialog.setvisible(boolean)
+
+1
+view full screen f11
+2
+src.net.sourceforge.atunes.gui.views.dialogs.fullscreen.fullscreendialog.java.fullscreendialog.setfullscreen(boolean)
+src.net.sourceforge.atunes.gui.views.dialogs.fullscreen.fullscreendialog.java.fullscreendialog.setvisible(boolean)
+
+2
+context panel
+1
+src.net.sourceforge.atunes.kernel.controllers.contextinformation.contextinformationpanelcontroller.java.contextinformationpanelcontroller.clear(boolean)
+
+2
+artist tab select pictur biographi album info correct name prior song linger song 
+1
+src.net.sourceforge.atunes.kernel.controllers.contextinformation.contextinformationpanelcontroller.java.contextinformationpanelcontroller.clear(boolean)
+
+2
+artist tab name
+1
+src.net.sourceforge.atunes.kernel.controllers.contextinformation.contextinformationpanelcontroller.java.contextinformationpanelcontroller.clear(boolean)
+
+3
+support format skip xine
+1
+src.net.sourceforge.atunes.kernel.modules.player.xine.xinehandler.java.xinehandler.startplayback(audioobject,audioobject)
+
+3
+support format reproduc copi file music repositori renam support extens exampl mp3 start tune atun set xine engin refresh repositori plai fake file expect behaviour tune atun skip next song actual behaviour tune atun stuck 
+1
+src.net.sourceforge.atunes.kernel.modules.player.xine.xinehandler.java.xinehandler.startplayback(audioobject,audioobject)
+
+3
+xine extens format repositori
+1
+src.net.sourceforge.atunes.kernel.modules.player.xine.xinehandler.java.xinehandler.startplayback(audioobject,audioobject)
+
+4
+osd displai jump next previou track
+2
+src.net.sourceforge.atunes.kernel.handlers.playerhandler.java.playerhandler.playaudioobject(audioobject)
+src.net.sourceforge.atunes.kernel.handlers.playerhandler.java.playerhandler.playcurrentaudioobject(boolean)
+
+4
+osd appear press plai button after stop track 
+2
+src.net.sourceforge.atunes.kernel.handlers.playerhandler.java.playerhandler.playaudioobject(audioobject)
+src.net.sourceforge.atunes.kernel.handlers.playerhandler.java.playerhandler.playcurrentaudioobject(boolean)
+
+4
+osd next previou track
+2
+src.net.sourceforge.atunes.kernel.handlers.playerhandler.java.playerhandler.playaudioobject(audioobject)
+src.net.sourceforge.atunes.kernel.handlers.playerhandler.java.playerhandler.playcurrentaudioobject(boolean)
+
+5
+multipl window mode doe work
+4
+src.net.sourceforge.atunes.kernel.controllerproxy.java.controllerproxy.getinstance()
+src.net.sourceforge.atunes.gui.multipleframe.java.multipleframe.addcontenttoframe()
+src.net.sourceforge.atunes.gui.multipleframe.java.multipleframe.getplaylistpanel()
+src.net.sourceforge.atunes.gui.multipleframe.java.multipleframe.getplaylisttable()
+
+5
+multipl window mode doe work in 
+4
+src.net.sourceforge.atunes.kernel.controllerproxy.java.controllerproxy.getinstance()
+src.net.sourceforge.atunes.gui.multipleframe.java.multipleframe.addcontenttoframe()
+src.net.sourceforge.atunes.gui.multipleframe.java.multipleframe.getplaylistpanel()
+src.net.sourceforge.atunes.gui.multipleframe.java.multipleframe.getplaylisttable()
+
+5
+multipl window mode
+4
+src.net.sourceforge.atunes.kernel.controllerproxy.java.controllerproxy.getinstance()
+src.net.sourceforge.atunes.gui.multipleframe.java.multipleframe.addcontenttoframe()
+src.net.sourceforge.atunes.gui.multipleframe.java.multipleframe.getplaylistpanel()
+src.net.sourceforge.atunes.gui.multipleframe.java.multipleframe.getplaylisttable()
+
+6
+request restart doesn work
+5
+src.net.sourceforge.atunes.kernel.kernel.java.kernel.startkernel(list<string>)
+src.net.sourceforge.atunes.main.java.main.main(string[])
+src.net.sourceforge.atunes.kernel.handlers.multipleinstanceshandler.java.multipleinstanceshandler.multipleinstanceshandler()
+src.net.sourceforge.atunes.kernel.handlers.multipleinstanceshandler.java.multipleinstanceshandler.isfirstinstance()
+src.net.sourceforge.atunes.kernel.handlers.multipleinstanceshandler.java.multipleinstanceshandler.sendargumentstofirstinstance(list<string>)
+
+6
+chang properti in prefer window tune atun ask restart applic press ye tune atun isn restart close tune atun version 
+5
+src.net.sourceforge.atunes.kernel.kernel.java.kernel.startkernel(list<string>)
+src.net.sourceforge.atunes.main.java.main.main(string[])
+src.net.sourceforge.atunes.kernel.handlers.multipleinstanceshandler.java.multipleinstanceshandler.multipleinstanceshandler()
+src.net.sourceforge.atunes.kernel.handlers.multipleinstanceshandler.java.multipleinstanceshandler.isfirstinstance()
+src.net.sourceforge.atunes.kernel.handlers.multipleinstanceshandler.java.multipleinstanceshandler.sendargumentstofirstinstance(list<string>)
+
+6
+properti prefer restart
+5
+src.net.sourceforge.atunes.kernel.kernel.java.kernel.startkernel(list<string>)
+src.net.sourceforge.atunes.main.java.main.main(string[])
+src.net.sourceforge.atunes.kernel.handlers.multipleinstanceshandler.java.multipleinstanceshandler.multipleinstanceshandler()
+src.net.sourceforge.atunes.kernel.handlers.multipleinstanceshandler.java.multipleinstanceshandler.isfirstinstance()
+src.net.sourceforge.atunes.kernel.handlers.multipleinstanceshandler.java.multipleinstanceshandler.sendargumentstofirstinstance(list<string>)
+
+7
+mp3 id3v2 tag
+1
+src.net.sourceforge.atunes.kernel.modules.repository.audio.audiofile.java.audiofile.supportsinternalpicture()
+
+7
+hi problem tune atun doe set tag mp3 file investig happen ha id3v1 tag doesn id3v2 tag id3v1 tag doe support track number properti subsequ tune atun tri set properti en except thrown tag updat consol output error write tag modifi tagmodifi set info setinfo edit tag user pawel music test mp3 error lang unsupport oper except unsupportedoperationexcept id3v10 store track number sampl mp3 upload workaround work wai mp3 id3v1 id3v2 tag edit simpli id3v2 tag creat ll upload sourc code check solut ok regard 
+1
+src.net.sourceforge.atunes.kernel.modules.repository.audio.audiofile.java.audiofile.supportsinternalpicture()
+
+7
+tag id3v1 track number
+1
+src.net.sourceforge.atunes.kernel.modules.repository.audio.audiofile.java.audiofile.supportsinternalpicture()
+
+8
+add imag repositori read older app version
+1
+src.net.sourceforge.atunes.kernel.modules.repository.audio.audiofile.java.audiofile.supportsinternalpicture()
+
+8
+reproduc read repositori older version tune atun updat latest svn add imag assum support format result ad imag possibl problem support intern imag issupportsinternalimag return set support in old version 
+1
+src.net.sourceforge.atunes.kernel.modules.repository.audio.audiofile.java.audiofile.supportsinternalpicture()
+
+8
+read repositori svn add imag
+1
+src.net.sourceforge.atunes.kernel.modules.repository.audio.audiofile.java.audiofile.supportsinternalpicture()
+
+9
+set lyric automat termin
+2
+src.net.sourceforge.atunes.kernel.executors.processes.addlyricstotagprocess.java.addlyricstotagprocess.run()
+src.net.sourceforge.atunes.kernel.modules.contextinformation.lyrics.java.lyrics.setlyrics(string)
+
+9
+problem occur right click select set lyric automat perform action obscur artist lyric found perform chang window appear goe awai ve liter wait minut occas lyric found window close window make imposs tune atun happen forcefulli kill program problem actual wai close perform chang window befor finish task window ha cancel button doe does button doe actual less frequent ve perpetu perform chang window occur try tag relat task fix track perform chang window occas doe termin ad wai user close window 
+2
+src.net.sourceforge.atunes.kernel.executors.processes.addlyricstotagprocess.java.addlyricstotagprocess.run()
+src.net.sourceforge.atunes.kernel.modules.contextinformation.lyrics.java.lyrics.setlyrics(string)
+
+9
+set lyric automat perform chang
+2
+src.net.sourceforge.atunes.kernel.executors.processes.addlyricstotagprocess.java.addlyricstotagprocess.run()
+src.net.sourceforge.atunes.kernel.modules.contextinformation.lyrics.java.lyrics.setlyrics(string)
+
+10
+radio label ad playlist
+1
+src.net.sourceforge.atunes.kernel.modules.draganddrop.treestoplaylistdraganddroplistener.java.treestoplaylistdraganddroplistener.drop(droptargetdropevent)
+
+10
+try add folder label radio playlist possibl exampl possibl add all classic station playlist drage folder icon 
+1
+src.net.sourceforge.atunes.kernel.modules.draganddrop.treestoplaylistdraganddroplistener.java.treestoplaylistdraganddroplistener.drop(droptargetdropevent)
+
+10
+add folder label radio playlist
+1
+src.net.sourceforge.atunes.kernel.modules.draganddrop.treestoplaylistdraganddroplistener.java.treestoplaylistdraganddroplistener.drop(droptargetdropevent)
+
+11
+last fm submiss bug
+1
+src.net.sourceforge.atunes.kernel.modules.contextinformation.lastfm.lastfmservice.java.lastfmservice.lastfmservice(proxy,string,string)
+
+11
+listen submit last fm 
+1
+src.net.sourceforge.atunes.kernel.modules.contextinformation.lastfm.lastfmservice.java.lastfmservice.lastfmservice(proxy,string,string)
+
+11
+last fm submit
+1
+src.net.sourceforge.atunes.kernel.modules.contextinformation.lastfm.lastfmservice.java.lastfmservice.lastfmservice(proxy,string,string)
+
+12
+full screen doesn work window tune atun
+1
+src.net.sourceforge.atunes.gui.views.dialogs.fullscreen.fullscreendialog.java.fullscreendialog.fullscreendialog(jframe)
+
+12
+tune atun v1 full screen look like screenshot 
+1
+src.net.sourceforge.atunes.gui.views.dialogs.fullscreen.fullscreendialog.java.fullscreendialog.fullscreendialog(jframe)
+
+12
+full screen
+1
+src.net.sourceforge.atunes.gui.views.dialogs.fullscreen.fullscreendialog.java.fullscreendialog.fullscreendialog(jframe)
+
+13
+wrong song durat displai player
+2
+src.net.sourceforge.atunes.kernel.modules.player.mplayer.audiofilemplayeroutputreader.java.audiofilemplayeroutputreader.audiofilemplayeroutputreader(mplayerhandler,process,audiofile)
+src.net.sourceforge.atunes.kernel.modules.player.mplayer.audiofilemplayeroutputreader.java.audiofilemplayeroutputreader.read(string)
+
+13
+longer song bought amazon player displai wrong song length song plai exampl song paul westerberg song start plai time bottom player time correct in info dialog exampl in silent wai mile davi song minut show in player bit rate song unusu westerberg song mayb confus player song sound ok problem actual plai 
+2
+src.net.sourceforge.atunes.kernel.modules.player.mplayer.audiofilemplayeroutputreader.java.audiofilemplayeroutputreader.audiofilemplayeroutputreader(mplayerhandler,process,audiofile)
+src.net.sourceforge.atunes.kernel.modules.player.mplayer.audiofilemplayeroutputreader.java.audiofilemplayeroutputreader.read(string)
+
+13
+song length plai
+2
+src.net.sourceforge.atunes.kernel.modules.player.mplayer.audiofilemplayeroutputreader.java.audiofilemplayeroutputreader.audiofilemplayeroutputreader(mplayerhandler,process,audiofile)
+src.net.sourceforge.atunes.kernel.modules.player.mplayer.audiofilemplayeroutputreader.java.audiofilemplayeroutputreader.read(string)
+
+14
+mute
+3
+src.net.sourceforge.atunes.kernel.modules.player.mplayer.mplayerhandler.java.mplayerhandler.applymutestate(boolean)
+src.net.sourceforge.atunes.kernel.modules.player.mplayer.mplayerhandler.java.mplayerhandler.setvolume(int)
+src.net.sourceforge.atunes.kernel.controllers.playercontrols.playercontrolslistener.java.playercontrolslistener.actionperformed(actionevent)
+
+14
+paus music mute system tune atun mute mute system tune atun show mute manual mute tune atun push plai tune atun longer show mute progress bar continu sound perform full stop plai sound return care examin reveal volum button doe updat system unmut keyboard least 
+3
+src.net.sourceforge.atunes.kernel.modules.player.mplayer.mplayerhandler.java.mplayerhandler.applymutestate(boolean)
+src.net.sourceforge.atunes.kernel.modules.player.mplayer.mplayerhandler.java.mplayerhandler.setvolume(int)
+src.net.sourceforge.atunes.kernel.controllers.playercontrols.playercontrolslistener.java.playercontrolslistener.actionperformed(actionevent)
+
+14
+paus mute unmut volum button
+3
+src.net.sourceforge.atunes.kernel.modules.player.mplayer.mplayerhandler.java.mplayerhandler.applymutestate(boolean)
+src.net.sourceforge.atunes.kernel.modules.player.mplayer.mplayerhandler.java.mplayerhandler.setvolume(int)
+src.net.sourceforge.atunes.kernel.controllers.playercontrols.playercontrolslistener.java.playercontrolslistener.actionperformed(actionevent)
+
+15
+edit titl fail
+1
+src.net.sourceforge.atunes.kernel.controllers.edittitlesdialog.edittitlestablemodel.java.edittitlestablemodel.setvalueat(string,int,int)
+
+15
+after import cd titl avail select album right click edit titl dialog allow edit titl soon hit enter tab mous click titl chang revert track asid particular bug us need attent mean chang titl in tune atun name disk in singl step minimum extran kei marc thibault marcthibault tanda ca 
+1
+src.net.sourceforge.atunes.kernel.controllers.edittitlesdialog.edittitlestablemodel.java.edittitlestablemodel.setvalueat(string,int,int)
+
+15
+edit titl track 
+1
+src.net.sourceforge.atunes.kernel.controllers.edittitlesdialog.edittitlestablemodel.java.edittitlestablemodel.setvalueat(string,int,int)
+
+16
+mute button in
+1
+src.net.sourceforge.atunes.kernel.handlers.systemtrayhandler.java.systemtrayhandler.fillmenu(jtrayiconpopupmenu)
+
+16
+tri us trai icon mute doesn effect unless us main ui mute mute os gui doesn displai oin main ui wondow trai icon 
+1
+src.net.sourceforge.atunes.kernel.handlers.systemtrayhandler.java.systemtrayhandler.fillmenu(jtrayiconpopupmenu)
+
+16
+mute button trai icon
+1
+src.net.sourceforge.atunes.kernel.handlers.systemtrayhandler.java.systemtrayhandler.fillmenu(jtrayiconpopupmenu)
+
+17
+version tune atun us nice altern itun problem mark song favourit right click method work f2 ha effect did find wai unlov song right click choos add favourit doe work
+1
+src.net.sourceforge.atunes.gui.views.controls.playlist.playlisttable.java.playlisttable.playlisttable()
+
+17
+f2 shortcut doe work
+1
+src.net.sourceforge.atunes.gui.views.controls.playlist.playlisttable.java.playlisttable.playlisttable()
+
+17
+f2 favourit
+1
+src.net.sourceforge.atunes.gui.views.controls.playlist.playlisttable.java.playlisttable.playlisttable()

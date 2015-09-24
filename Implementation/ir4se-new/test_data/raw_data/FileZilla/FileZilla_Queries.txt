@@ -1,0 +1,518 @@
+1
+save directori after reconnect 
+2
+src.interface.viewheader.cpp.CLocalViewHeader.OnStateChange(unsigned,int,const wxString)
+src.interface.viewheader.cpp.CRemoteViewHeader.OnStateChange(unsigned,int,const wxString)
+
+1
+after log server delai reconnect client save visit directori anymor select box directori list tree view current directori list directori list chang current directori 
+2
+src.interface.viewheader.cpp.CLocalViewHeader.OnStateChange(unsigned,int,const wxString)
+src.interface.viewheader.cpp.CRemoteViewHeader.OnStateChange(unsigned,int,const wxString)
+
+1
+save directori visit list tree view
+2
+src.interface.viewheader.cpp.CLocalViewHeader.OnStateChange(unsigned,int,const wxString)
+src.interface.viewheader.cpp.CRemoteViewHeader.OnStateChange(unsigned,int,const wxString)
+
+2
+renam file exist name  updat file list 
+1
+src.engine.directorycache.cpp.CDirectoryCache.Rename(const CServer,const CServerPath,const wxString,const CServerPath,const wxString)
+
+2
+renam file server file exist directori server renam file overwrit file origin name fine filezilla show two file name exampl directori contain main php index php renam main php index php index php overwritten main php filezilla show index php index php show index php server side issu refresh fix problem 
+1
+src.engine.directorycache.cpp.CDirectoryCache.Rename(const CServer,const CServerPath,const wxString,const CServerPath,const wxString)
+
+2
+renam file server exist directori
+1
+src.engine.directorycache.cpp.CDirectoryCache.Rename(const CServer,const CServerPath,const wxString,const CServerPath,const wxString)
+
+3
+set us medium larg icon 
+7
+src.interface.themeprovider.cpp.CThemeProvider.GetAllImages(const wxString,wxSize)
+src.interface.optionspage_themes.cpp.COptionsPageThemes.LoadPage()
+src.interface.optionspage_themes.cpp.COptionsPageThemes.SavePage()
+src.interface.optionspage_themes.cpp.COptionsPageThemes.OnThemeChange(wxCommandEvent)
+src.interface.optionspage_themes.cpp.COptionsPageThemes.~COptionsPageThemes()
+src.interface.Mainfrm.cpp.CMainFrame.CreateToolBar()
+src.interface.Mainfrm.cpp.CMainFrame.OnMenuEditSettings(wxCommandEvent)
+
+3
+filezilla rc2 feisti releas bluki icon set three size select set theme bluki chang icon set intuit chang icon size select larg icon preview click help miss icon set size combo box 
+7
+src.interface.themeprovider.cpp.CThemeProvider.GetAllImages(const wxString,wxSize)
+src.interface.optionspage_themes.cpp.COptionsPageThemes.LoadPage()
+src.interface.optionspage_themes.cpp.COptionsPageThemes.SavePage()
+src.interface.optionspage_themes.cpp.COptionsPageThemes.OnThemeChange(wxCommandEvent)
+src.interface.optionspage_themes.cpp.COptionsPageThemes.~COptionsPageThemes()
+src.interface.Mainfrm.cpp.CMainFrame.CreateToolBar()
+src.interface.Mainfrm.cpp.CMainFrame.OnMenuEditSettings(wxCommandEvent)
+
+3
+bluki theme icon set size larg medium
+7
+src.interface.themeprovider.cpp.CThemeProvider.GetAllImages(const wxString,wxSize)
+src.interface.optionspage_themes.cpp.COptionsPageThemes.LoadPage()
+src.interface.optionspage_themes.cpp.COptionsPageThemes.SavePage()
+src.interface.optionspage_themes.cpp.COptionsPageThemes.OnThemeChange(wxCommandEvent)
+src.interface.optionspage_themes.cpp.COptionsPageThemes.~COptionsPageThemes()
+src.interface.Mainfrm.cpp.CMainFrame.CreateToolBar()
+src.interface.Mainfrm.cpp.CMainFrame.OnMenuEditSettings(wxCommandEvent)
+
+4
+drag folder local show up 
+4
+src.interface.recursive_operation.cpp.CRecursiveOperation.ProcessDirectoryListing(const CDirectoryListing)
+src.interface.LocalListView.cpp.CLocalListView.RefreshFile(const wxString)
+src.interface.state.cpp.CState.RefreshLocalFile(wxString)
+src.interface.QueueView.cpp.CQueueView.TryStartNextTransfer()
+
+4
+drag folder from remot folder insid file zilla filezilla bottom left quarter pane folder transfer window refresh show folder 
+4
+src.interface.recursive_operation.cpp.CRecursiveOperation.ProcessDirectoryListing(const CDirectoryListing)
+src.interface.LocalListView.cpp.CLocalListView.RefreshFile(const wxString)
+src.interface.state.cpp.CState.RefreshLocalFile(wxString)
+src.interface.QueueView.cpp.CQueueView.TryStartNextTransfer()
+
+4
+drag folder remot transfer local
+4
+src.interface.recursive_operation.cpp.CRecursiveOperation.ProcessDirectoryListing(const CDirectoryListing)
+src.interface.LocalListView.cpp.CLocalListView.RefreshFile(const wxString)
+src.interface.state.cpp.CState.RefreshLocalFile(wxString)
+src.interface.QueueView.cpp.CQueueView.TryStartNextTransfer()
+
+5
+miss set option transferretrycount option_transferretrycount 
+1
+src.interface.QueueView.cpp.CQueueView.IncreaseErrorCount(t_EngineData)
+
+5
+chang option transferretrycount option_transferretrycount 
+1
+src.interface.QueueView.cpp.CQueueView.IncreaseErrorCount(t_EngineData)
+
+5
+option transferretrycount option_transferretrycount gui
+1
+src.interface.QueueView.cpp.CQueueView.IncreaseErrorCount(t_EngineData)
+
+6
+reset item from failur queue tab errorcount 
+1
+src.interface.queueview_failed.cpp.CQueueViewFailed.OnRequeueSelected(wxCommandEvent)
+
+6
+reset item from failur queue normal queue error count errorcount reset 
+1
+src.interface.queueview_failed.cpp.CQueueViewFailed.OnRequeueSelected(wxCommandEvent)
+
+6
+reset failur queue errorcount 
+1
+src.interface.queueview_failed.cpp.CQueueViewFailed.OnRequeueSelected(wxCommandEvent)
+
+7
+server path address bar correct after copi file 
+3
+src.interface.viewheader.cpp.CViewHeader.AddRecentDirectory(const wxString)
+src.interface.viewheader.cpp.CLocalViewHeader.OnStateChange(unsigned,int,const wxString)
+src.interface.viewheader.cpp.CRemoteViewHeader.OnStateChange(unsigned,int,const wxString)
+
+7
+copi subfold filezilla sow content folder moment after shown last subfold on see begin folder server side address bar server displai name subfold last file copi from bit confus open folder correct path displai 
+3
+src.interface.viewheader.cpp.CViewHeader.AddRecentDirectory(const wxString)
+src.interface.viewheader.cpp.CLocalViewHeader.OnStateChange(unsigned,int,const wxString)
+src.interface.viewheader.cpp.CRemoteViewHeader.OnStateChange(unsigned,int,const wxString)
+
+7
+address bar server path copi file
+3
+src.interface.viewheader.cpp.CViewHeader.AddRecentDirectory(const wxString)
+src.interface.viewheader.cpp.CLocalViewHeader.OnStateChange(unsigned,int,const wxString)
+src.interface.viewheader.cpp.CRemoteViewHeader.OnStateChange(unsigned,int,const wxString)
+
+8
+fail get desktop path 
+1
+src.interface.LocalTreeView.cpp.CLocalTreeView.GetDirFromItem(wxTreeItemId)
+
+8
+click desktop root file folder tree left hand pane messag fail get desktop path run win xp winxp pro x64 client desktop registri correctli redirect folder cif share appear c document set usernam 
+1
+src.interface.LocalTreeView.cpp.CLocalTreeView.GetDirFromItem(wxTreeItemId)
+
+8
+desktop fail get desktop path
+1
+src.interface.LocalTreeView.cpp.CLocalTreeView.GetDirFromItem(wxTreeItemId)
+
+9
+time zone timezon offset limit 
+1
+src.engine.server.cpp.CServer.SetTimezoneOffset(int)
+
+9
+remot server gmt locat gmt hour differ site manag timezon offset accept offset greater hour most current version filezilla 
+1
+src.engine.server.cpp.CServer.SetTimezoneOffset(int)
+
+9
+site manag time zone timezon offset
+1
+src.engine.server.cpp.CServer.SetTimezoneOffset(int)
+
+10
+server file list updat file permiss chang 
+1
+src.interface.RemoteListView.cpp.CRemoteListView.OnMenuChmod(wxCommandEvent)
+
+10
+f il zilla filezilla server file list updat file permiss chang edit permiss file server file permiss  chang list view refresh view annoy 
+1
+src.interface.RemoteListView.cpp.CRemoteListView.OnMenuChmod(wxCommandEvent)
+
+10
+permiss file server chang
+1
+src.interface.RemoteListView.cpp.CRemoteListView.OnMenuChmod(wxCommandEvent)
+
+11
+confirm delet folder view 
+1
+src.interface.RemoteTreeView.cpp.CRemoteTreeView.OnMenuDelete(wxCommandEvent)
+
+11
+delet folder right click delet remot folder window e g upper right  ask confirm normal window e g lower right file zilla filezilla ask delet file folder s file zilla filezilla ubuntu gnu linux haven t test version platform 
+1
+src.interface.RemoteTreeView.cpp.CRemoteTreeView.OnMenuDelete(wxCommandEvent)
+
+11
+folder delet remot view confirm 
+1
+src.interface.RemoteTreeView.cpp.CRemoteTreeView.OnMenuDelete(wxCommandEvent)
+
+12
+sftp keep reconnect wrong password 
+1
+src.engine.sftpcontrolsocket.cpp.CSftpControlSocket.OnSftpEvent(CSftpEvent)
+
+12
+file zilla filezilla ubuntu beta problem m german version server type sftp connect type ask password connect tick rememb password session enter wrong password connect bug password wrong save m abl correct guess file zilla filezilla ask password happen ftp protocol 
+1
+src.engine.sftpcontrolsocket.cpp.CSftpControlSocket.OnSftpEvent(CSftpEvent)
+
+12
+sftp connect ask password rememb password session
+1
+src.engine.sftpcontrolsocket.cpp.CSftpControlSocket.OnSftpEvent(CSftpEvent)
+
+13
+maximum simultan transfer set 
+1
+src.interface.QueueView.cpp.CQueueView.SettingsChanged()
+
+13
+maximum simultan transfert chang transfer set maximum simultan transfert relaunch filezilla make take account set relaunch set work properli thread work fine os win xp winxp sp2 ver filezilla build date 
+1
+src.interface.QueueView.cpp.CQueueView.SettingsChanged()
+
+13
+maximum simultan transfer
+1
+src.interface.QueueView.cpp.CQueueView.SettingsChanged()
+
+14
+automat ascii mode dotfil  work 
+1
+src.interface.QueueView.cpp.CQueueView.ShouldUseBinaryMode(wxString)
+
+14
+file zilla filezilla client window xp pro server m connect run kind debian linux option treat dotfil ascii  work download htaccess file us binari mode even ad htaccess list ascii filestyp uncheck dotfil ascii option leav htaccess list ascii filetyp htaccess file transfer ascii older version file zilla filezilla abl manual set transfer mode transfer featur disappear latest version on featur back 
+1
+src.interface.QueueView.cpp.CQueueView.ShouldUseBinaryMode(wxString)
+
+14
+ascii transfer mode dotfil file
+1
+src.interface.QueueView.cpp.CQueueView.ShouldUseBinaryMode(wxString)
+
+15
+placehold string left chmod dialog 
+1
+src.interface.chmoddialog.cpp.CChmodDialog.Create(wxWindow,int,int,const wxString,const char)
+
+15
+remot file attribut dialog contain placehold desc real text s untranslant 
+1
+src.interface.chmoddialog.cpp.CChmodDialog.Create(wxWindow,int,int,const wxString,const char)
+
+15
+placehold chmod dialog remot file attribut
+1
+src.interface.chmoddialog.cpp.CChmodDialog.Create(wxWindow,int,int,const wxString,const char)
+
+16
+sitemanag xml 
+1
+src.interface.import.cpp.CImportDialog.Show()
+
+16
+edit found sitemanag xml click set dialog pop up site manag entri check click told success restart entir site manag repeat process result 
+1
+src.interface.import.cpp.CImportDialog.Show()
+
+16
+sitemanag xml edit dialog
+1
+src.interface.import.cpp.CImportDialog.Show()
+
+17
+ad ascii filetyp us restart 
+1
+src.interface.Mainfrm.cpp.CMainFrame.CheckChangedSettings()
+
+17
+ad file type automat detect ascii transfer mode detect close open program 
+1
+src.interface.Mainfrm.cpp.CMainFrame.CheckChangedSettings()
+
+17
+automat detect ascii transfer mode file type
+1
+src.interface.Mainfrm.cpp.CMainFrame.CheckChangedSettings()
+
+18
+empti challeng text interact login wx gtk wxgtk 
+1
+src.interface.loginmanager.cpp.CLoginManager.DisplayDialog(CServer,wxString,wxString)
+
+18
+problem m grc s ppp password idea paper card list passcod log server ask password ask passcod card accomplish challeng respons interact keyboard base ssh authent filezilla ask challeng server ask reproduc instal filezilla ubuntu gutsi instal ppp pam configur ssh locat http code googl com p ppp pam open filezilla configur log sftp choos interact login method connect server interact dialog pop up blank  ask passcod enter screenshot http i12 tinyp com png file zilla filezilla ask passcod challeng box blank correct passcod enter server authent m file zilla filezilla ubuntu gutsi 
+1
+src.interface.loginmanager.cpp.CLoginManager.DisplayDialog(CServer,wxString,wxString)
+
+18
+challeng sftp interact login passcod authent
+1
+src.interface.loginmanager.cpp.CLoginManager.DisplayDialog(CServer,wxString,wxString)
+
+19
+cancel file renam directori list chang 
+1
+src.interface.RemoteListView.cpp.CRemoteListView.SetDirectoryListing(const CDirectoryListing,bool)
+
+19
+renam file remot f2 switc window server disconnect after close renam dialog abl reconnect server 
+1
+src.interface.RemoteListView.cpp.CRemoteListView.SetDirectoryListing(const CDirectoryListing,bool)
+
+19
+renam file remot f2
+1
+src.interface.RemoteListView.cpp.CRemoteListView.SetDirectoryListing(const CDirectoryListing,bool)
+
+20
+duplic local filenam list 
+1
+src.interface.LocalListView.cpp.CLocalListView.ApplyCurrentFilter()
+
+20
+os window xp pro sp2 fz client get show duplic drive letter local site directori list tree view actual file list open fz client select comput from local directori tree list show drive comput click filter directori list button click cancel directori list filter window duplic drive letter shown directori list local machin machin reproduc time log inform post addition minim fz maxim caus differ drive letter show up duplic great work fz 
+1
+src.interface.LocalListView.cpp.CLocalListView.ApplyCurrentFilter()
+
+20
+local site directori list filter cancel drive letter
+1
+src.interface.LocalListView.cpp.CLocalListView.ApplyCurrentFilter()
+
+21
+file exist action store set 
+1
+src.interface.asyncrequestqueue.cpp.CAsyncRequestQueue.ProcessNextRequest()
+
+21
+receiv popup action file exist select overwrit upload ask action download check us set transfer file exist action enter select edit set file exist action made select upload ask select file overwritten back area select return program instal home  receiv problem attach version 
+1
+src.interface.asyncrequestqueue.cpp.CAsyncRequestQueue.ProcessNextRequest()
+
+21
+file exist action overwrit
+1
+src.interface.asyncrequestqueue.cpp.CAsyncRequestQueue.ProcessNextRequest()
+
+22
+directori remov from list after delet 
+1
+src.interface.RemoteTreeView.cpp.CRemoteTreeView.OnMenuDelete(wxCommandEvent)
+
+22
+version win xp sp delet directori from remot site view filezilla chang directori after delet command rmd respons rmd command success statu retriev directori list command cwd respons file directori error fail retriev directori list cheer lar 
+1
+src.interface.RemoteTreeView.cpp.CRemoteTreeView.OnMenuDelete(wxCommandEvent)
+
+22
+remot site view delet directori list  
+1
+src.interface.RemoteTreeView.cpp.CRemoteTreeView.OnMenuDelete(wxCommandEvent)
+
+23
+displai correctli sitemanag dropdown 
+2
+src.interface.sitemanager.cpp.CSiteManagerXmlHandler_Menu.AddSite(const wxString,CSiteManagerItemData)
+src.interface.sitemanager.cpp.CSiteManagerXmlHandler_Menu.LevelUp()
+
+23
+save server connect site manag call quick connect pulldown menu arrow button site manag displai 
+2
+src.interface.sitemanager.cpp.CSiteManagerXmlHandler_Menu.AddSite(const wxString,CSiteManagerItemData)
+src.interface.sitemanager.cpp.CSiteManagerXmlHandler_Menu.LevelUp()
+
+23
+site manag sitemanag quick connect pulldown menu 
+2
+src.interface.sitemanager.cpp.CSiteManagerXmlHandler_Menu.AddSite(const wxString,CSiteManagerItemData)
+src.interface.sitemanager.cpp.CSiteManagerXmlHandler_Menu.LevelUp()
+
+24
+remot tree view show known folder 
+2
+src.interface.RemoteTreeView.cpp.CRemoteTreeView.MakeParent(CServerPath,bool)
+src.interface.RemoteTreeView.cpp.CRemoteTreeView.OnItemExpanding(wxTreeEvent)
+
+24
+navig remot view list pane  properli updat treeview exampl directori structur www www folder1 www folder1 subfolder1 www folder1 subfolder2 www folder1 subfolder3 www folder2 www folder3 after connect server us file list pane navig follow www folder1 subfolder1 tree view displai www folder1 subfolder1 us treeview navig folder show folder on expect www folder1 subfolder1 subfolder2 subfolder3 folder2 folder3 
+2
+src.interface.RemoteTreeView.cpp.CRemoteTreeView.MakeParent(CServerPath,bool)
+src.interface.RemoteTreeView.cpp.CRemoteTreeView.OnItemExpanding(wxTreeEvent)
+
+24
+remot tree view list pane folder
+2
+src.interface.RemoteTreeView.cpp.CRemoteTreeView.MakeParent(CServerPath,bool)
+src.interface.RemoteTreeView.cpp.CRemoteTreeView.OnItemExpanding(wxTreeEvent)
+
+25
+file download directori list cach 
+10
+src.engine.ControlSocket.cpp.CControlSocket.CheckOverwriteFile()
+src.engine.directorycache.cpp.CDirectoryCache.Lookup(CDirectoryListing,const CServer,const CServerPath,bool)
+src.engine.directorycache.cpp.CDirectoryCache.Lookup(CDirectoryListing,const CServer,const CServerPath,wxString,bool)
+src.engine.directorycache.cpp.CDirectoryCache.DoesExist(const CServer,const CServerPath,wxString,int)
+src.engine.directorycache.cpp.CDirectoryCache.Rename(const CServer,const CServerPath,const wxString,const CServerPath,const wxString)
+src.engine.engineprivate.cpp.CFileZillaEnginePrivate.List(const CListCommand)
+src.engine.FileZillaEngine.cpp.CFileZillaEngine.CacheLookup(const CServerPath,CDirectoryListing)
+src.engine.ftpcontrolsocket.cpp.CFtpControlSocket.List(CServerPath,wxString,bool)
+src.engine.sftpcontrolsocket.cpp.CSftpControlSocket.List(CServerPath,wxString,bool)
+src.interface.Mainfrm.cpp.CMainFrame.OnEngineEvent(wxEvent)
+
+25
+transfer directori from remot site local filesystem set up brows file question sync comput upload download  care up level updat file differ ftp client pc web script produc error transfer folder file question comput file zilla filezilla program open us step select overwrit newer make appli download file skip download download includ subfold file s  fix folder subdirectori transfer list cach cach lookup hour old 
+10
+src.engine.ControlSocket.cpp.CControlSocket.CheckOverwriteFile()
+src.engine.directorycache.cpp.CDirectoryCache.Lookup(CDirectoryListing,const CServer,const CServerPath,bool)
+src.engine.directorycache.cpp.CDirectoryCache.Lookup(CDirectoryListing,const CServer,const CServerPath,wxString,bool)
+src.engine.directorycache.cpp.CDirectoryCache.DoesExist(const CServer,const CServerPath,wxString,int)
+src.engine.directorycache.cpp.CDirectoryCache.Rename(const CServer,const CServerPath,const wxString,const CServerPath,const wxString)
+src.engine.engineprivate.cpp.CFileZillaEnginePrivate.List(const CListCommand)
+src.engine.FileZillaEngine.cpp.CFileZillaEngine.CacheLookup(const CServerPath,CDirectoryListing)
+src.engine.ftpcontrolsocket.cpp.CFtpControlSocket.List(CServerPath,wxString,bool)
+src.engine.sftpcontrolsocket.cpp.CSftpControlSocket.List(CServerPath,wxString,bool)
+src.interface.Mainfrm.cpp.CMainFrame.OnEngineEvent(wxEvent)
+
+25
+file download directori cach overwrit newer appli download
+10
+src.engine.ControlSocket.cpp.CControlSocket.CheckOverwriteFile()
+src.engine.directorycache.cpp.CDirectoryCache.Lookup(CDirectoryListing,const CServer,const CServerPath,bool)
+src.engine.directorycache.cpp.CDirectoryCache.Lookup(CDirectoryListing,const CServer,const CServerPath,wxString,bool)
+src.engine.directorycache.cpp.CDirectoryCache.DoesExist(const CServer,const CServerPath,wxString,int)
+src.engine.directorycache.cpp.CDirectoryCache.Rename(const CServer,const CServerPath,const wxString,const CServerPath,const wxString)
+src.engine.engineprivate.cpp.CFileZillaEnginePrivate.List(const CListCommand)
+src.engine.FileZillaEngine.cpp.CFileZillaEngine.CacheLookup(const CServerPath,CDirectoryListing)
+src.engine.ftpcontrolsocket.cpp.CFtpControlSocket.List(CServerPath,wxString,bool)
+src.engine.sftpcontrolsocket.cpp.CSftpControlSocket.List(CServerPath,wxString,bool)
+src.interface.Mainfrm.cpp.CMainFrame.OnEngineEvent(wxEvent)
+
+26
+renam folder updat dir cach 
+1
+src.interface.RemoteTreeView.cpp.CRemoteTreeView.OnEndLabelEdit(wxTreeEvent)
+
+26
+right click folder remot tree view choos renam renam folder foldernam tree view list view chang click renam folder tree view s open folder old name exampl folder name cmpro cmpro_ cs renam cmpro click cmpro tree view bring t chang directori htdoc cmpro cmpro_ cs file directori complet log attach help 
+1
+src.interface.RemoteTreeView.cpp.CRemoteTreeView.OnEndLabelEdit(wxTreeEvent)
+
+26
+renam folder dir cach remot tree view
+1
+src.interface.RemoteTreeView.cpp.CRemoteTreeView.OnEndLabelEdit(wxTreeEvent)
+
+27
+refresh after select show hidden file 
+3
+src.interface.Mainfrm.cpp.CMainFrame.CreateMenus()
+src.interface.Mainfrm.cpp.CMainFrame.OnMenuHandler(wxCommandEvent)
+src.interface.conditionaldialog.cpp.CConditionalDialog.CConditionalDialog(wxWindow,DialogType,Modes,bool)
+
+27
+select first time option show hidden file from menu alert work ftp remot view reload bug help 
+3
+src.interface.Mainfrm.cpp.CMainFrame.CreateMenus()
+src.interface.Mainfrm.cpp.CMainFrame.OnMenuHandler(wxCommandEvent)
+src.interface.conditionaldialog.cpp.CConditionalDialog.CConditionalDialog(wxWindow,DialogType,Modes,bool)
+
+27
+show hidden file remot view
+3
+src.interface.Mainfrm.cpp.CMainFrame.CreateMenus()
+src.interface.Mainfrm.cpp.CMainFrame.OnMenuHandler(wxCommandEvent)
+src.interface.conditionaldialog.cpp.CConditionalDialog.CConditionalDialog(wxWindow,DialogType,Modes,bool)
+
+28
+ctrl  select file unix version 
+2
+src.interface.LocalListView.cpp.CLocalListView.OnKeyDown(wxKeyEvent)
+src.interface.RemoteListView.cpp.CRemoteListView.OnKeyDown(wxKeyEvent)
+
+28
+unix linux version file zilla filezilla ctrl invok select file focus pane local remot select file click first shift click last 
+2
+src.interface.LocalListView.cpp.CLocalListView.OnKeyDown(wxKeyEvent)
+src.interface.RemoteListView.cpp.CRemoteListView.OnKeyDown(wxKeyEvent)
+
+28
+ctrl select file local remot pane
+2
+src.interface.LocalListView.cpp.CLocalListView.OnKeyDown(wxKeyEvent)
+src.interface.RemoteListView.cpp.CRemoteListView.OnKeyDown(wxKeyEvent)
+
+29
+site manag tab  work site select 
+3
+src.interface.sitemanager.cpp.CSiteManager.Create(wxWindow)
+src.interface.sitemanager.cpp.CSiteManager.CreateControls()
+src.interface.sitemanager.cpp.CSiteManager.SetCtrlState()
+
+29
+bring up site manag couldn t control focu keyboard hit alt o alt d trigger discard button tab  help move focu mous click insid site list get control first us navig kei move 
+3
+src.interface.sitemanager.cpp.CSiteManager.Create(wxWindow)
+src.interface.sitemanager.cpp.CSiteManager.CreateControls()
+src.interface.sitemanager.cpp.CSiteManager.SetCtrlState()
+
+29
+site manag focu alt tab
+3
+src.interface.sitemanager.cpp.CSiteManager.Create(wxWindow)
+src.interface.sitemanager.cpp.CSiteManager.CreateControls()
+src.interface.sitemanager.cpp.CSiteManager.SetCtrlState()

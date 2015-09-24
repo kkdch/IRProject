@@ -1,0 +1,5 @@
+plugins/org.eclipse.team.cvs.ssh/src/org/eclipse/team/internal/ccvs/ssh/Client.java/Client connect(IProgressMonitor)
+src/net/sourceforge/atunes/gui/views/dialogs/fullScreen/FullScreenDialog.java/FullScreenDialog setFullScreen(boolean)
+src/net/sourceforge/atunes/gui/views/dialogs/fullScreen/FullScreenDialog.java/FullScreenDialog setVisible(boolean)
+plugins/org.eclipse.ui/Eclipse UI/org/eclipse/ui/internal/dialogs/NewWizardNewPage.java/NewWizardNewPage handleWizardSelection(SelectionChangedEvent)
+plugins/org.eclipse.ui/Eclipse JFace Text/org/eclipse/jface/text/TextViewerHoverManager.java/TextViewerHoverManager computeInformation()

@@ -1,0 +1,822 @@
+1
+open mix eol file forc side mix 
+1
+Src.MergeDoc.cpp.CMergeDoc.LoadFile(CString,int,BOOL,const FileTextEncoding)
+
+2
+eol stat mix strstat ncrlf nlf ncr id option getoptionsmgr 
+1
+Src.MergeDoc.cpp.CMergeDoc.LoadFile(CString,int,BOOL,const FileTextEncoding)
+
+3
+current trunk r5640 open two file mix eol on eol type file shown mix eol bit confus user caus win merg winmerg copi wrong eol type copi differ make non mix eol file mix eol file handl non mix eol file properli convert eol type copi differ 
+1
+Src.MergeDoc.cpp.CMergeDoc.LoadFile(CString,int,BOOL,const FileTextEncoding)
+
+4
+two mix eol on eol shown mix eol bit confus caus win winmerg copi wrong eol copi differ make non mix eol mix eol non mix eol properli convert eol copi differ 
+1
+Src.MergeDoc.cpp.CMergeDoc.LoadFile(CString,int,BOOL,const FileTextEncoding)
+
+5
+open file eol type mix 
+1
+Src.MergeDoc.cpp.CMergeDoc.LoadFile(CString,int,BOOL,const FileTextEncoding)
+
+6
+eol stat mix tab load getoptionsmgr file sfilenam opt mgr 
+1
+Src.MergeDoc.cpp.CMergeDoc.LoadFile(CString,int,BOOL,const FileTextEncoding)
+
+7
+add more valu context size 
+2
+src.patchdlg.cpp.cpatchdlg.onok()
+src.patchdlg.cpp.cpatchdlg.oninitdialog()
+
+8
+line trailer ntextpo valu insert text nline nendlin end po 
+2
+src.patchdlg.cpp.cpatchdlg.onok()
+src.patchdlg.cpp.cpatchdlg.oninitdialog()
+
+9
+current winmerg tool gener patch patch gener format context provid combo box combobox limit number valu appli patch human reader maximum valu bigger context size need exampl function bodi ha huge size more conveni diff full bodi includ name solut add big valu context 
+2
+src.patchdlg.cpp.cpatchdlg.onok()
+src.patchdlg.cpp.cpatchdlg.oninitdialog()
+
+10
+winmerg tool gener patch patch gener format context provid combo box combobox limit appli patch reader maximum bigger context need exampl bodi ha huge more conveni full bodi includ solut big context 
+2
+src.patchdlg.cpp.cpatchdlg.onok()
+src.patchdlg.cpp.cpatchdlg.oninitdialog()
+
+11
+patch context valu size 
+2
+src.patchdlg.cpp.cpatchdlg.onok()
+src.patchdlg.cpp.cpatchdlg.oninitdialog()
+
+12
+patch m_pdlgpatch context patchcreat creator style patchstyl patchopt whitespac option 
+2
+src.patchdlg.cpp.cpatchdlg.onok()
+src.patchdlg.cpp.cpatchdlg.oninitdialog()
+
+13
+conflictfil save trail line end lost 
+1
+Src.ConflictFileParser.cpp.X.ParseConflictFile(LPCTSTR,LPCTSTR,LPCTSTR,bool)
+
+14
+line conflict revis po nest ntextpo writestr workingcopi newrevis work 
+1
+Src.ConflictFileParser.cpp.X.ParseConflictFile(LPCTSTR,LPCTSTR,LPCTSTR,bool)
+
+15
+ve ran win merg winmerg from command line resolv conflict ve us command winmergeu howto txt file howto txt follow conflict marker tree date date merg sourc trail line end charact lf end file ve save file trail line end charact lost ve test file ve encount wrong behavior 
+1
+Src.ConflictFileParser.cpp.X.ParseConflictFile(LPCTSTR,LPCTSTR,LPCTSTR,bool)
+
+16
+ve ran win winmerg command resolv conflict ve command howto txt howto txt follow conflict marker tree date date sourc trail charact lf ve trail charact lost ve ve encount wrong behavior 
+1
+Src.ConflictFileParser.cpp.X.ParseConflictFile(LPCTSTR,LPCTSTR,LPCTSTR,bool)
+
+17
+conflict save file end lf 
+1
+Src.ConflictFileParser.cpp.X.ParseConflictFile(LPCTSTR,LPCTSTR,LPCTSTR,bool)
+
+18
+conflict lf font file option saveopt line revis nest conflictfil 
+1
+Src.ConflictFileParser.cpp.X.ParseConflictFile(LPCTSTR,LPCTSTR,LPCTSTR,bool)
+
+19
+view color viewcolor 
+1
+Src.MergeDiffDetailView.cpp.CMergeDiffDetailView.GetAdditionalTextBlocks(int,TEXTBLOCK)
+
+20
+color ncolorindex colorindex index m_cachedcolor m_pcolor getcolor colorindex_applyforc applyforc clr 
+1
+Src.MergeDiffDetailView.cpp.CMergeDiffDetailView.GetAdditionalTextBlocks(int,TEXTBLOCK)
+
+21
+patch differenceon word charlevel shown two diff color chang remov ad item differend color 
+1
+Src.MergeDiffDetailView.cpp.CMergeDiffDetailView.GetAdditionalTextBlocks(int,TEXTBLOCK)
+
+22
+color word differ browsecolor cpropmergecolor diff clr brows sel prop 
+1
+Src.MergeDiffDetailView.cpp.CMergeDiffDetailView.GetAdditionalTextBlocks(int,TEXTBLOCK)
+
+23
+view color viewcolor chang remov ad 
+1
+Src.MergeDiffDetailView.cpp.CMergeDiffDetailView.GetAdditionalTextBlocks(int,TEXTBLOCK)
+
+24
+color differ browsecolor cpropmergecolor diff clr chang brows onsyscolorchang prop 
+1
+Src.MergeDiffDetailView.cpp.CMergeDiffDetailView.GetAdditionalTextBlocks(int,TEXTBLOCK)
+
+25
+extens column empti 
+1
+Src.DirViewColItems.cpp.X.ColExtGet(const CDiffContext,const void)
+
+26
+extens strpattern settingsfil strpars pattern str bfilterad token _t pszsep 
+1
+Src.DirViewColItems.cpp.X.ColExtGet(const CDiffContext,const void)
+
+27
+folder compar extens column empti file relat bug request folder extens show up person depend don t de part oper local tag hidden choic follow hide extens flag oper put file browser finder sort extens sort function show extens 
+1
+Src.DirViewColItems.cpp.X.ColExtGet(const CDiffContext,const void)
+
+28
+folder extens column relat bug request folder extens show up person depend don de part oper local tag hidden choic follow hide extens oper put browser finder sort extens sort show extens 
+1
+Src.DirViewColItems.cpp.X.ColExtGet(const CDiffContext,const void)
+
+29
+folder compar extens column 
+1
+Src.DirViewColItems.cpp.X.ColExtGet(const CDiffContext,const void)
+
+30
+backup bakpath bak path folder pszpath column compar ext filenam 
+1
+Src.DirViewColItems.cpp.X.ColExtGet(const CDiffContext,const void)
+
+31
+set codepag command line paramet 
+2
+Src.Merge.cpp.CMergeApp.ParseArgsAndDoOpen(MergeCmdLineInfo,CMainFrame)
+Src.MergeCmdLineInfo.cpp.MergeCmdLineInfo.ParseWinMergeCmdLine(LPCTSTR)
+
+32
+paramet line command miss codepag commandlineparsertest parser next testmissingstylesheetparameterthrow testmissingencodingparameterthrow 
+2
+Src.Merge.cpp.CMergeApp.ParseArgsAndDoOpen(MergeCmdLineInfo,CMainFrame)
+Src.MergeCmdLineInfo.cpp.MergeCmdLineInfo.ParseWinMergeCmdLine(LPCTSTR)
+
+33
+us three codepag project d set need codepag project command line paramet offer call paramet cp syntax command line winmergeu ex cp codepag codepag specifi command line shouldn t chang on specifi option dialog 
+2
+Src.Merge.cpp.CMergeApp.ParseArgsAndDoOpen(MergeCmdLineInfo,CMainFrame)
+Src.MergeCmdLineInfo.cpp.MergeCmdLineInfo.ParseWinMergeCmdLine(LPCTSTR)
+
+34
+three codepag project need codepag project command paramet offer paramet cp syntax command ex cp codepag codepag specifi command shouldn on specifi 
+2
+Src.Merge.cpp.CMergeApp.ParseArgsAndDoOpen(MergeCmdLineInfo,CMainFrame)
+Src.MergeCmdLineInfo.cpp.MergeCmdLineInfo.ParseWinMergeCmdLine(LPCTSTR)
+
+35
+set codepag command line paramet cp 
+2
+Src.Merge.cpp.CMergeApp.ParseArgsAndDoOpen(MergeCmdLineInfo,CMainFrame)
+Src.MergeCmdLineInfo.cpp.MergeCmdLineInfo.ParseWinMergeCmdLine(LPCTSTR)
+
+36
+codepag cp unicod ucr fileinfo m_unicod m_codepag utf8 encod isvalidcodepageformergeeditor 
+2
+Src.Merge.cpp.CMergeApp.ParseArgsAndDoOpen(MergeCmdLineInfo,CMainFrame)
+Src.MergeCmdLineInfo.cpp.MergeCmdLineInfo.ParseWinMergeCmdLine(LPCTSTR)
+
+37
+show xml config file xml file 
+1
+Src.MergeDoc.cpp.CMergeDoc.OpenDocs(FileLocation,FileLocation,BOOL,BOOL)
+
+38
+xml storag parser data xml_char file chardata_checkxmlchar expect chardata_init _xml_failur 
+1
+Src.MergeDoc.cpp.CMergeDoc.OpenDocs(FileLocation,FileLocation,BOOL,BOOL)
+
+39
+d net xml config file xml file syntax highlight 
+1
+Src.MergeDoc.cpp.CMergeDoc.OpenDocs(FileLocation,FileLocation,BOOL,BOOL)
+
+40
+xml storag parser data xml_char file chardata_checkxmlchar expect chardata_init _xml_failur 
+1
+Src.MergeDoc.cpp.CMergeDoc.OpenDocs(FileLocation,FileLocation,BOOL,BOOL)
+
+41
+xml config file net syntax highlight 
+1
+Src.MergeDoc.cpp.CMergeDoc.OpenDocs(FileLocation,FileLocation,BOOL,BOOL)
+
+42
+config write configlog filewritestr log cfgdir m_miscset misc loadconfigboolset _t 
+1
+Src.MergeDoc.cpp.CMergeDoc.OpenDocs(FileLocation,FileLocation,BOOL,BOOL)
+
+43
+invalid argument 
+1
+Src.MergeDiffDetailView.cpp.CMergeDiffDetailView.EnsureInDiff(CPoint)
+
+44
+element test root testnam path itel invalid_argu searchroot name std 
+1
+Src.MergeDiffDetailView.cpp.CMergeDiffDetailView.EnsureInDiff(CPoint)
+
+45
+move fast from on diff next back error reprocedur after equal text diff line equl line file end move up arrow kei error check found m line end m_lineend code want linelenght from m line m_alin n line nline length n line nline error pazch take care 
+1
+Src.MergeDiffDetailView.cpp.CMergeDiffDetailView.EnsureInDiff(CPoint)
+
+46
+move fast on back after equal equl move up arrow kei found m_lineend code want m_alin nline nline take care 
+1
+Src.MergeDiffDetailView.cpp.CMergeDiffDetailView.EnsureInDiff(CPoint)
+
+47
+diff invalid argument 
+1
+Src.MergeDiffDetailView.cpp.CMergeDiffDetailView.EnsureInDiff(CPoint)
+
+48
+element test root testnam path itel invalid_argu searchroot name std 
+1
+Src.MergeDiffDetailView.cpp.CMergeDiffDetailView.EnsureInDiff(CPoint)
+
+49
+left right descript on 
+1
+Src.MergeDoc.cpp.CMergeDoc.OnToolsGenerateReport()
+
+50
+str strright right strleft left doc fileloc pdirdoc path dir 
+1
+Src.MergeDoc.cpp.CMergeDoc.OnToolsGenerateReport()
+
+51
+us command win merg winmerg e s q minim dl number on numberon dr number two numbertwo d indic xl d indic xl store result xl gener report xl found left right descript 
+1
+Src.MergeDoc.cpp.CMergeDoc.OnToolsGenerateReport()
+
+52
+command win winmerg minim dl on dr two indic indic store gener report found descript 
+1
+Src.MergeDoc.cpp.CMergeDoc.OnToolsGenerateReport()
+
+53
+left right descript 
+1
+Src.MergeDoc.cpp.CMergeDoc.OnToolsGenerateReport()
+
+54
+str strright right strleft left doc fileloc pdirdoc path dir 
+1
+Src.MergeDoc.cpp.CMergeDoc.OnToolsGenerateReport()
+
+55
+larg file crash win merg winmerg 
+1
+Src.DiffTextBuffer.cpp.CDiffTextBuffer.LoadFromFile(LPCTSTR,PackingInfo,LPCTSTR,BOOL,CRLFSTYLE,const FileTextEncoding,CString)
+
+56
+win pval nstate winmerg state merg val activ transform get_plugindescript 
+1
+Src.DiffTextBuffer.cpp.CDiffTextBuffer.LoadFromFile(LPCTSTR,PackingInfo,LPCTSTR,BOOL,CRLFSTYLE,const FileTextEncoding,CString)
+
+57
+compar larg file win merg winmerg crash exampl compar window sp3 windowsxp kb936929 sp3 x86 enu ex popup attach v2 win xp winxp sp3 x32 work compar larg file 
+1
+Src.DiffTextBuffer.cpp.CDiffTextBuffer.LoadFromFile(LPCTSTR,PackingInfo,LPCTSTR,BOOL,CRLFSTYLE,const FileTextEncoding,CString)
+
+58
+larg win winmerg crash exampl enu ex popup attach v2 win xp winxp x32 work larg 
+1
+Src.DiffTextBuffer.cpp.CDiffTextBuffer.LoadFromFile(LPCTSTR,PackingInfo,LPCTSTR,BOOL,CRLFSTYLE,const FileTextEncoding,CString)
+
+59
+larg file compar 
+1
+Src.DiffTextBuffer.cpp.CDiffTextBuffer.LoadFromFile(LPCTSTR,PackingInfo,LPCTSTR,BOOL,CRLFSTYLE,const FileTextEncoding,CString)
+
+60
+pctx ctx dd names0 names1 ddleft ddright file dir li 
+1
+Src.DiffTextBuffer.cpp.CDiffTextBuffer.LoadFromFile(LPCTSTR,PackingInfo,LPCTSTR,BOOL,CRLFSTYLE,const FileTextEncoding,CString)
+
+61
+gener report inaccur doctyp 
+1
+Src.MergeDoc.cpp.CMergeDoc.OnToolsGenerateReport()
+
+62
+writestr write gener report html _t string header punk footer 
+1
+Src.MergeDoc.cpp.CMergeDoc.OnToolsGenerateReport()
+
+63
+report tool gener report identifi html transit doctyp inaccur html recommend current doctyp html w3c dtd html transit en http www w3 org tr rec html40 loos dtd get warn from validaterion servic mismatch identifi doctyp declar document us inconsist doctyp declar identifi w3c dtd html transit en declar html transit document type associ identifi http www w3 org tr rec html40 loos dtd match document type easili fix updat doctyp doctyp html w3c dtd html transit en http www w3 org tr html4 loos dtd cosmet problem technic current on incorrect http www w3 org qa valid dtd list html http en wikipedia org wiki document type declar document_type_declar 
+1
+Src.MergeDoc.cpp.CMergeDoc.OnToolsGenerateReport()
+
+64
+report tool gener report identifi html transit doctyp inaccur html recommend doctyp html w3c dtd html transit en http www w3 org tr rec html40 loos dtd warn servic mismatch identifi doctyp declar document doctyp declar identifi w3c dtd html transit en declar html transit document associ identifi http www w3 org tr rec html40 loos dtd match document easili fix doctyp doctyp html w3c dtd html transit en http www w3 org tr html4 loos dtd problem technic on incorrect http www w3 org valid dtd html http en org document declar 
+1
+Src.MergeDoc.cpp.CMergeDoc.OnToolsGenerateReport()
+
+65
+tool gener report doctyp html mismatch between system identifi in doctyp declar 
+1
+Src.MergeDoc.cpp.CMergeDoc.OnToolsGenerateReport()
+
+66
+writestr nbuffer _t write html report gener td string buffer 
+1
+Src.MergeDoc.cpp.CMergeDoc.OnToolsGenerateReport()
+
+67
+prediff plugin select plugin disabl 
+3
+Src.DirView.cpp.CDirView.OnUpdateCtxtOpenWithUnpacker(CCmdUI)
+Src.MainFrm.cpp.CMainFrame.OnUpdatePluginUnpackMode(CCmdUI)
+Src.MainFrm.cpp.CMainFrame.OnUpdateReloadPlugins(CCmdUI)
+
+68
+prediff plugin pluginnumb id script addpluginstolist nid pi type piscriptarrai 
+3
+Src.DirView.cpp.CDirView.OnUpdateCtxtOpenWithUnpacker(CCmdUI)
+Src.MainFrm.cpp.CMainFrame.OnUpdatePluginUnpackMode(CCmdUI)
+Src.MainFrm.cpp.CMainFrame.OnUpdateReloadPlugins(CCmdUI)
+
+69
+even plugin disabl select prediff plugin from plugin menu plugin don t test win merg winmerg german window xp 
+3
+Src.DirView.cpp.CDirView.OnUpdateCtxtOpenWithUnpacker(CCmdUI)
+Src.MainFrm.cpp.CMainFrame.OnUpdatePluginUnpackMode(CCmdUI)
+Src.MainFrm.cpp.CMainFrame.OnUpdateReloadPlugins(CCmdUI)
+
+70
+even plugin disabl prediff plugin plugin menu plugin don win winmerg german xp 
+3
+Src.DirView.cpp.CDirView.OnUpdateCtxtOpenWithUnpacker(CCmdUI)
+Src.MainFrm.cpp.CMainFrame.OnUpdatePluginUnpackMode(CCmdUI)
+Src.MainFrm.cpp.CMainFrame.OnUpdateReloadPlugins(CCmdUI)
+
+71
+prediff plugin disabl 
+3
+Src.DirView.cpp.CDirView.OnUpdateCtxtOpenWithUnpacker(CCmdUI)
+Src.MainFrm.cpp.CMainFrame.OnUpdatePluginUnpackMode(CCmdUI)
+Src.MainFrm.cpp.CMainFrame.OnUpdateReloadPlugins(CCmdUI)
+
+72
+prediff plugin pluginnumb id script info nid pi piscriptarrai newset 
+3
+Src.DirView.cpp.CDirView.OnUpdateCtxtOpenWithUnpacker(CCmdUI)
+Src.MainFrm.cpp.CMainFrame.OnUpdatePluginUnpackMode(CCmdUI)
+Src.MainFrm.cpp.CMainFrame.OnUpdateReloadPlugins(CCmdUI)
+
+73
+file filter pattern caus infinit loop 
+1
+Src.FileFilterMgr.cpp.X.AddFilterPattern(vector,FileFilterElement,CString)
+
+74
+pattern op option dee pcregrep filter strcmp pcre newlin stderr 
+1
+Src.FileFilterMgr.cpp.X.AddFilterPattern(vector,FileFilterElement,CString)
+
+75
+reproduc instal attach file filter restart win merg winmerg 
+1
+Src.FileFilterMgr.cpp.X.AddFilterPattern(vector,FileFilterElement,CString)
+
+76
+filter pattern codepag win patternsload szpattern file winmerg merg load 
+1
+Src.FileFilterMgr.cpp.X.AddFilterPattern(vector,FileFilterElement,CString)
+
+77
+file filter pattern 
+1
+Src.FileFilterMgr.cpp.X.AddFilterPattern(vector,FileFilterElement,CString)
+
+78
+pattern filter extens strpattern patternsload szpattern finder file load szext 
+1
+Src.FileFilterMgr.cpp.X.AddFilterPattern(vector,FileFilterElement,CString)
+
+79
+mainfrm cpp 
+1
+Src.MainFrm.cpp.CMainFrame.ApplyViewWhitespace()
+
+80
+cpp unit test keyword cppunittestapp s_apszcppkeywordlist pszchar nlength iscppkeyword char 
+1
+Src.MainFrm.cpp.CMainFrame.ApplyViewWhitespace()
+
+81
+show eol diff diff style left mix right do grafic toggl option view whitespac grafic char show anymor leav view start patch solv creat option start switch 
+1
+Src.MainFrm.cpp.CMainFrame.ApplyViewWhitespace()
+
+82
+show eol style mix do toggl whitespac char show anymor leav patch solv switch 
+1
+Src.MainFrm.cpp.CMainFrame.ApplyViewWhitespace()
+
+83
+mainfrm eol diff style grafic char view whitespac 
+1
+Src.MainFrm.cpp.CMainFrame.ApplyViewWhitespace()
+
+84
+eol ignor style whitespac opt_view_whitespac getoptionsmgr nstyle getbool option view 
+1
+Src.MainFrm.cpp.CMainFrame.ApplyViewWhitespace()
+
+85
+wrong timestamp generag patch 
+1
+Src.DiffWrapper.cpp.CDiffWrapper.WritePatchFile(change,file_data)
+
+86
+patch m_pdlgpatch file patchopt alt file2 file1 option diffopt cpatchtool 
+1
+Src.DiffWrapper.cpp.CDiffWrapper.WritePatchFile(change,file_data)
+
+87
+exampl let s two file utf16 utf8 time stamp two file utf16 utf8 time stamp tool gener patch utf8 patch path utf8 tue jan path utf8 thu jan show correct time stamp utf16 file patch path utf16 thu path utf16 thu show right time stamp show time stamp temporari file creat 
+1
+Src.DiffWrapper.cpp.CDiffWrapper.WritePatchFile(change,file_data)
+
+88
+exampl let two utf16 utf8 time two utf16 utf8 time tool gener patch utf8 patch utf8 jan utf8 jan show correct time utf16 patch utf16 utf16 show time show time temporari 
+1
+Src.DiffWrapper.cpp.CDiffWrapper.WritePatchFile(change,file_data)
+
+89
+timestamp tool gener patch 
+1
+Src.DiffWrapper.cpp.CDiffWrapper.WritePatchFile(change,file_data)
+
+90
+patch file alt cpatchtool file2 file1 tool altpath1 altpath2 path 
+1
+Src.DiffWrapper.cpp.CDiffWrapper.WritePatchFile(change,file_data)
+
+91
+set 
+2
+Src.Common.PreferencesDlg.cpp.CPreferencesDlg.OnExportButton()
+Src.Common.PropertyPageHost.cpp.CPropertyPageHost.OnOK()
+
+92
+patternset set pattern inithasht setsideboth cfgset lhseek testsetup side setsid 
+2
+Src.Common.PreferencesDlg.cpp.CPreferencesDlg.OnExportButton()
+Src.Common.PropertyPageHost.cpp.CPropertyPageHost.OnOK()
+
+93
+chang stting file leav dialog old set export patch updat set first done 
+2
+Src.Common.PreferencesDlg.cpp.CPreferencesDlg.OnExportButton()
+Src.Common.PropertyPageHost.cpp.CPropertyPageHost.OnOK()
+
+94
+patch file crlf htempfil temp style __leav m_pdlgpatch ncrlfstyle hsearch 
+2
+Src.Common.PreferencesDlg.cpp.CPreferencesDlg.OnExportButton()
+Src.Common.PropertyPageHost.cpp.CPropertyPageHost.OnOK()
+
+95
+export set file 
+2
+Src.Common.PreferencesDlg.cpp.CPreferencesDlg.OnExportButton()
+Src.Common.PropertyPageHost.cpp.CPropertyPageHost.OnOK()
+
+96
+bom file2 file1 file sfilepath ctl swap setbom set path 
+2
+Src.Common.PreferencesDlg.cpp.CPreferencesDlg.OnExportButton()
+Src.Common.PropertyPageHost.cpp.CPropertyPageHost.OnOK()
+
+97
+foldercompar method chang 
+3
+Src.DiffContext.cpp.CDiffContext.CreateCompareOptions(int,const DIFFOPTIONS)
+Src.DiffContext.cpp.CDiffContext.GetCompareOptions(int)
+Src.FolderCmp.cpp.FolderCmp.prepAndCompareTwoFiles(CDiffContext,DIFFITEM)
+
+98
+method pbtn combo target pcombo m_method m_target comparemethodcombo btn compar 
+3
+Src.DiffContext.cpp.CDiffContext.CreateCompareOptions(int,const DIFFOPTIONS)
+Src.DiffContext.cpp.CDiffContext.GetCompareOptions(int)
+Src.FolderCmp.cpp.FolderCmp.prepAndCompareTwoFiles(CDiffContext,DIFFITEM)
+
+99
+detect big file method chang quick compar more file text file smaller compar quick content patch chang method singl file 
+3
+Src.DiffContext.cpp.CDiffContext.CreateCompareOptions(int,const DIFFOPTIONS)
+Src.DiffContext.cpp.CDiffContext.GetCompareOptions(int)
+Src.FolderCmp.cpp.FolderCmp.prepAndCompareTwoFiles(CDiffContext,DIFFITEM)
+
+100
+detect big method quick more smaller quick content patch method singl 
+3
+Src.DiffContext.cpp.CDiffContext.CreateCompareOptions(int,const DIFFOPTIONS)
+Src.DiffContext.cpp.CDiffContext.GetCompareOptions(int)
+Src.FolderCmp.cpp.FolderCmp.prepAndCompareTwoFiles(CDiffContext,DIFFITEM)
+
+101
+folder compar method chang file size 
+3
+Src.DiffContext.cpp.CDiffContext.CreateCompareOptions(int,const DIFFOPTIONS)
+Src.DiffContext.cpp.CDiffContext.GetCompareOptions(int)
+Src.FolderCmp.cpp.FolderCmp.prepAndCompareTwoFiles(CDiffContext,DIFFITEM)
+
+102
+diffcod pctxt compar di ctxt diff cmp m_difffiledata file method 
+3
+Src.DiffContext.cpp.CDiffContext.CreateCompareOptions(int,const DIFFOPTIONS)
+Src.DiffContext.cpp.CDiffContext.GetCompareOptions(int)
+Src.FolderCmp.cpp.FolderCmp.prepAndCompareTwoFiles(CDiffContext,DIFFITEM)
+
+103
+fix bug compar method restor global valu 
+8
+Src.DiffContext.cpp.CDiffContext.CDiffContext(LPCTSTR,LPCTSTR)
+Src.DiffContext.cpp.CDiffContext.CreateCompareOptions(int,const DIFFOPTIONS)
+Src.DiffContext.cpp.CDiffContext.GetCompareOptions(int)
+Src.DirDoc.cpp.CDirDoc.InitCompare(const PathContext,BOOL,CTempPathContext)
+Src.DirDoc.cpp.CDirDoc.Rescan()
+Src.FolderCmp.cpp.FolderCmp.prepAndCompareTwoFiles(CDiffContext,DIFFITEM)
+Src.DirScan.cpp.X.CompareDiffItem(DIFFITEM,CDiffContext)
+Src.HexMergeDoc.cpp.X.UpdateDiffItem(DIFFITEM,CDiffContext)
+
+104
+mcnt jump reg match regend p1 debug failur print1 debug_print1 
+8
+Src.DiffContext.cpp.CDiffContext.CDiffContext(LPCTSTR,LPCTSTR)
+Src.DiffContext.cpp.CDiffContext.CreateCompareOptions(int,const DIFFOPTIONS)
+Src.DiffContext.cpp.CDiffContext.GetCompareOptions(int)
+Src.DirDoc.cpp.CDirDoc.InitCompare(const PathContext,BOOL,CTempPathContext)
+Src.DirDoc.cpp.CDirDoc.Rescan()
+Src.FolderCmp.cpp.FolderCmp.prepAndCompareTwoFiles(CDiffContext,DIFFITEM)
+Src.DirScan.cpp.X.CompareDiffItem(DIFFITEM,CDiffContext)
+Src.HexMergeDoc.cpp.X.UpdateDiffItem(DIFFITEM,CDiffContext)
+
+105
+patch fix bug compar method chang back full content after switch quick content quick content method compar big file origin spot report matthia mayer patch item discuss patch item bug misus global compar method variabl current file s compar method solut add current compar method variabl file tell compar method current file most time global compar variabl differ temporarili chang compar method global compar method constructor store constant variabl chang compar 
+8
+Src.DiffContext.cpp.CDiffContext.CDiffContext(LPCTSTR,LPCTSTR)
+Src.DiffContext.cpp.CDiffContext.CreateCompareOptions(int,const DIFFOPTIONS)
+Src.DiffContext.cpp.CDiffContext.GetCompareOptions(int)
+Src.DirDoc.cpp.CDirDoc.InitCompare(const PathContext,BOOL,CTempPathContext)
+Src.DirDoc.cpp.CDirDoc.Rescan()
+Src.FolderCmp.cpp.FolderCmp.prepAndCompareTwoFiles(CDiffContext,DIFFITEM)
+Src.DirScan.cpp.X.CompareDiffItem(DIFFITEM,CDiffContext)
+Src.HexMergeDoc.cpp.X.UpdateDiffItem(DIFFITEM,CDiffContext)
+
+106
+patch fix bug method back full content after switch quick content quick content method big origin spot report patch patch bug misus global method variabl method solut method variabl tell method most time global variabl differ temporarili method global method constructor store constant variabl 
+8
+Src.DiffContext.cpp.CDiffContext.CDiffContext(LPCTSTR,LPCTSTR)
+Src.DiffContext.cpp.CDiffContext.CreateCompareOptions(int,const DIFFOPTIONS)
+Src.DiffContext.cpp.CDiffContext.GetCompareOptions(int)
+Src.DirDoc.cpp.CDirDoc.InitCompare(const PathContext,BOOL,CTempPathContext)
+Src.DirDoc.cpp.CDirDoc.Rescan()
+Src.FolderCmp.cpp.FolderCmp.prepAndCompareTwoFiles(CDiffContext,DIFFITEM)
+Src.DirScan.cpp.X.CompareDiffItem(DIFFITEM,CDiffContext)
+Src.HexMergeDoc.cpp.X.UpdateDiffItem(DIFFITEM,CDiffContext)
+
+107
+compar method restor global valu content 
+8
+Src.DiffContext.cpp.CDiffContext.CDiffContext(LPCTSTR,LPCTSTR)
+Src.DiffContext.cpp.CDiffContext.CreateCompareOptions(int,const DIFFOPTIONS)
+Src.DiffContext.cpp.CDiffContext.GetCompareOptions(int)
+Src.DirDoc.cpp.CDirDoc.InitCompare(const PathContext,BOOL,CTempPathContext)
+Src.DirDoc.cpp.CDirDoc.Rescan()
+Src.FolderCmp.cpp.FolderCmp.prepAndCompareTwoFiles(CDiffContext,DIFFITEM)
+Src.DirScan.cpp.X.CompareDiffItem(DIFFITEM,CDiffContext)
+Src.HexMergeDoc.cpp.X.UpdateDiffItem(DIFFITEM,CDiffContext)
+
+108
+mcnt jump reg match regend p1 debug failur print1 debug_print1 
+8
+Src.DiffContext.cpp.CDiffContext.CDiffContext(LPCTSTR,LPCTSTR)
+Src.DiffContext.cpp.CDiffContext.CreateCompareOptions(int,const DIFFOPTIONS)
+Src.DiffContext.cpp.CDiffContext.GetCompareOptions(int)
+Src.DirDoc.cpp.CDirDoc.InitCompare(const PathContext,BOOL,CTempPathContext)
+Src.DirDoc.cpp.CDirDoc.Rescan()
+Src.FolderCmp.cpp.FolderCmp.prepAndCompareTwoFiles(CDiffContext,DIFFITEM)
+Src.DirScan.cpp.X.CompareDiffItem(DIFFITEM,CDiffContext)
+Src.HexMergeDoc.cpp.X.UpdateDiffItem(DIFFITEM,CDiffContext)
+
+109
+creation match folder wrong recurs view mode 
+1
+Src.DirView.cpp.CDirView.OpenOneItem(UINT_PTR,DIFFITEM,DIFFITEM,String,String,int,bool)
+
+110
+di diffcod show getbool getoptionsmgr recurs uniqu opt mgr filter 
+1
+Src.DirView.cpp.CDirView.OpenOneItem(UINT_PTR,DIFFITEM,DIFFITEM,String,String,int,bool)
+
+111
+folder exist on side press enter make win merg winmerg offer creat match on opposit side sub path folder account match folder creat comparison root 
+1
+Src.DirView.cpp.CDirView.OpenOneItem(UINT_PTR,DIFFITEM,DIFFITEM,String,String,int,bool)
+
+112
+folder exist on side press enter make win winmerg offer match on opposit side sub folder account match folder comparison root 
+1
+Src.DirView.cpp.CDirView.OpenOneItem(UINT_PTR,DIFFITEM,DIFFITEM,String,String,int,bool)
+
+113
+recurs view mode folder comparison 
+1
+Src.DirView.cpp.CDirView.OpenOneItem(UINT_PTR,DIFFITEM,DIFFITEM,String,String,int,bool)
+
+114
+di diffcod show getbool item lvhti getoptionsmgr uniqu tree opt 
+1
+Src.DirView.cpp.CDirView.OpenOneItem(UINT_PTR,DIFFITEM,DIFFITEM,String,String,int,bool)
+
+115
+gui languag updat 
+1
+Src.ChildFrm.cpp.CChildFrame.UpdateResources()
+
+116
+resourc updateresourc updat necessari gui languag after chang merg frame 
+1
+Src.ChildFrm.cpp.CChildFrame.UpdateResources()
+
+117
+languag chang label pane switch id after select languag locat und detailview updat 
+1
+Src.ChildFrm.cpp.CChildFrame.UpdateResources()
+
+118
+resourc updateresourc updat necessari gui languag after chang merg frame 
+1
+Src.ChildFrm.cpp.CChildFrame.UpdateResources()
+
+119
+languag chang label pane detailview updat 
+1
+Src.ChildFrm.cpp.CChildFrame.UpdateResources()
+
+120
+resourc updateresourc updat necessari gui languag after chang merg frame 
+1
+Src.ChildFrm.cpp.CChildFrame.UpdateResources()
+
+121
+font charset name config log incorrect 
+6
+Src.Common.multiformatText.cpp.storageForPlugins.ValidateNewFile()
+Src.DiffTextBuffer.cpp.CDiffTextBuffer.LoadFromFile(LPCTSTR,PackingInfo,LPCTSTR,BOOL,CRLFSTYLE,const FileTextEncoding,CString)
+Src.DiffWrapper.cpp.CDiffWrapper.RunFileDiff()
+Src.DirCmpReport.cpp.DirCmpReport.GenerateXmlHeader()
+Src.HexMergeView.cpp.CHexMergeView.SaveFile(LPCTSTR)
+Src.VSSHelper.cpp.VSSHelper.ReLinkVCProj(CString,CString)
+
+122
+config configlog cfgdir log loadconfigboolset charset option opt m_miscset set 
+6
+Src.Common.multiformatText.cpp.storageForPlugins.ValidateNewFile()
+Src.DiffTextBuffer.cpp.CDiffTextBuffer.LoadFromFile(LPCTSTR,PackingInfo,LPCTSTR,BOOL,CRLFSTYLE,const FileTextEncoding,CString)
+Src.DiffWrapper.cpp.CDiffWrapper.RunFileDiff()
+Src.DirCmpReport.cpp.DirCmpReport.GenerateXmlHeader()
+Src.HexMergeView.cpp.CHexMergeView.SaveFile(LPCTSTR)
+Src.VSSHelper.cpp.VSSHelper.ReLinkVCProj(CString,CString)
+
+123
+font charset name win merg winmerg configur log follow winmerg txt font font facenam courier font charset 
+6
+Src.Common.multiformatText.cpp.storageForPlugins.ValidateNewFile()
+Src.DiffTextBuffer.cpp.CDiffTextBuffer.LoadFromFile(LPCTSTR,PackingInfo,LPCTSTR,BOOL,CRLFSTYLE,const FileTextEncoding,CString)
+Src.DiffWrapper.cpp.CDiffWrapper.RunFileDiff()
+Src.DirCmpReport.cpp.DirCmpReport.GenerateXmlHeader()
+Src.HexMergeView.cpp.CHexMergeView.SaveFile(LPCTSTR)
+Src.VSSHelper.cpp.VSSHelper.ReLinkVCProj(CString,CString)
+
+124
+font charset win winmerg configur log follow winmerg txt font font facenam courier font charset 
+6
+Src.Common.multiformatText.cpp.storageForPlugins.ValidateNewFile()
+Src.DiffTextBuffer.cpp.CDiffTextBuffer.LoadFromFile(LPCTSTR,PackingInfo,LPCTSTR,BOOL,CRLFSTYLE,const FileTextEncoding,CString)
+Src.DiffWrapper.cpp.CDiffWrapper.RunFileDiff()
+Src.DirCmpReport.cpp.DirCmpReport.GenerateXmlHeader()
+Src.HexMergeView.cpp.CHexMergeView.SaveFile(LPCTSTR)
+Src.VSSHelper.cpp.VSSHelper.ReLinkVCProj(CString,CString)
+
+125
+font charset name config log 
+6
+Src.Common.multiformatText.cpp.storageForPlugins.ValidateNewFile()
+Src.DiffTextBuffer.cpp.CDiffTextBuffer.LoadFromFile(LPCTSTR,PackingInfo,LPCTSTR,BOOL,CRLFSTYLE,const FileTextEncoding,CString)
+Src.DiffWrapper.cpp.CDiffWrapper.RunFileDiff()
+Src.DirCmpReport.cpp.DirCmpReport.GenerateXmlHeader()
+Src.HexMergeView.cpp.CHexMergeView.SaveFile(LPCTSTR)
+Src.VSSHelper.cpp.VSSHelper.ReLinkVCProj(CString,CString)
+
+126
+config configlog cfgdir log loadconfigboolset charset option opt m_miscset set 
+6
+Src.Common.multiformatText.cpp.storageForPlugins.ValidateNewFile()
+Src.DiffTextBuffer.cpp.CDiffTextBuffer.LoadFromFile(LPCTSTR,PackingInfo,LPCTSTR,BOOL,CRLFSTYLE,const FileTextEncoding,CString)
+Src.DiffWrapper.cpp.CDiffWrapper.RunFileDiff()
+Src.DirCmpReport.cpp.DirCmpReport.GenerateXmlHeader()
+Src.HexMergeView.cpp.CHexMergeView.SaveFile(LPCTSTR)
+Src.VSSHelper.cpp.VSSHelper.ReLinkVCProj(CString,CString)
+
+127
+copi advanc toolbar icon automat enabl 
+4
+Src.MergeEditView.cpp.CMergeEditView.OnL2RNext()
+Src.MergeEditView.cpp.CMergeEditView.OnUpdateL2RNext(CCmdUI)
+Src.MergeEditView.cpp.CMergeEditView.OnR2LNext()
+Src.MergeEditView.cpp.CMergeEditView.OnUpdateR2LNext(CCmdUI)
+
+128
+toolbar imag m_toolbarimag rbbi enabl sizebutton size toolbar_images_dis barctrl toolbar_images_en 
+4
+Src.MergeEditView.cpp.CMergeEditView.OnL2RNext()
+Src.MergeEditView.cpp.CMergeEditView.OnUpdateL2RNext(CCmdUI)
+Src.MergeEditView.cpp.CMergeEditView.OnR2LNext()
+Src.MergeEditView.cpp.CMergeEditView.OnUpdateR2LNext(CCmdUI)
+
+129
+button enabl correct manual posit cursor differ us edit find differ after copi right copi left button enabl correct problem after step copi right advanc copi left advanc button automat enabl similar problem menu item merg expect behaviour after step button menu item mention step automat enabl 
+4
+Src.MergeEditView.cpp.CMergeEditView.OnL2RNext()
+Src.MergeEditView.cpp.CMergeEditView.OnUpdateL2RNext(CCmdUI)
+Src.MergeEditView.cpp.CMergeEditView.OnR2LNext()
+Src.MergeEditView.cpp.CMergeEditView.OnUpdateR2LNext(CCmdUI)
+
+130
+button enabl correct manual posit cursor differ differ after copi copi button enabl correct problem after step copi advanc copi advanc button automat enabl similar problem menu expect behaviour after step button menu step automat enabl 
+4
+Src.MergeEditView.cpp.CMergeEditView.OnL2RNext()
+Src.MergeEditView.cpp.CMergeEditView.OnUpdateL2RNext(CCmdUI)
+Src.MergeEditView.cpp.CMergeEditView.OnR2LNext()
+Src.MergeEditView.cpp.CMergeEditView.OnUpdateR2LNext(CCmdUI)
+
+131
+toolbar icon copi right copi left edit find 
+4
+Src.MergeEditView.cpp.CMergeEditView.OnL2RNext()
+Src.MergeEditView.cpp.CMergeEditView.OnUpdateL2RNext(CCmdUI)
+Src.MergeEditView.cpp.CMergeEditView.OnR2LNext()
+Src.MergeEditView.cpp.CMergeEditView.OnUpdateR2LNext(CCmdUI)
+
+132
+copi right left chose dir docopyrighttoleft docopylefttoright cdirview user from 
+4
+Src.MergeEditView.cpp.CMergeEditView.OnL2RNext()
+Src.MergeEditView.cpp.CMergeEditView.OnUpdateL2RNext(CCmdUI)
+Src.MergeEditView.cpp.CMergeEditView.OnR2LNext()
+Src.MergeEditView.cpp.CMergeEditView.OnUpdateR2LNext(CCmdUI)
+
+133
+win merg winmerg don t show menu icon 
+1
+Src.BCMenu.cpp.BCMenu.AddToGlobalImageList(CImageList,int,int)
+
+134
+mutex pmainfram frame main hmutex menu log merg commandlin runtim 
+1
+Src.BCMenu.cpp.BCMenu.AddToGlobalImageList(CImageList,int,int)
+
+135
+test win merg winmerg german window don t show icon menu win merg winmerg problem show takashi s win merg winmerg fork solut workaround broken menu icon win merg winmerg compil visual studio http bitbucket org sdottaka winmerg v2 changeset b852 f0587157 b852f0587157 workaround bug c imag list cimagelist draw indirect drawindirect mfc100 http bitbucket org sdottaka winmerg v2 changeset greet tim 
+1
+Src.BCMenu.cpp.BCMenu.AddToGlobalImageList(CImageList,int,int)
+
+136
+win winmerg german don show icon menu win winmerg problem show win winmerg fork solut workaround broken menu icon win winmerg compil visual studio http org winmerg v2 workaround bug imag cimagelist draw indirect http org winmerg v2 tim 
+1
+Src.BCMenu.cpp.BCMenu.AddToGlobalImageList(CImageList,int,int)
+
+137
+menu icon show 
+1
+Src.BCMenu.cpp.BCMenu.AddToGlobalImageList(CImageList,int,int)
+
+138
+menu icon m_pmenu menu_view m_pwndsizeicon aboutbox view idm_aboutbox m_menuicon idm 
+1
+Src.BCMenu.cpp.BCMenu.AddToGlobalImageList(CImageList,int,int)
+

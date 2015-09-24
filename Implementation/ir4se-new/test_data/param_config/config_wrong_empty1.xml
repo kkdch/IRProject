@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameters>
+	<param name="">FileZilla</param>
+	<param name="base_dir">test_data/raw_data</param>
+	<param name="k1">0.7</param>
+	<param name="b">1.2</param>
+</parameters>

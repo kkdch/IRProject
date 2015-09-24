@@ -1,0 +1,659 @@
+1
+resolv factori method allow method overrid 
+2
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.FieldMetaData.java.FieldMetaData.getFactoryMethod()
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.FieldMetaData.java.FieldMetaData.findMethod(String)
+
+2
+get method annot factori method overridden method differ paramet randomli select on method name type provid exampl persist option column name statu extern get name getnam factori valu valueof order statu orderstatu get statu getstatu statu order statu orderstatu order statu orderstatu valu valueof ordin valu valueof ordin order statu orderstatu order statu orderstatu valu valueof string name valu valueof name order statu orderstatu actual result valu valueof string select expect result valu valueof string select provid patch fix defect appli method invoc convers rule from java languag specif ed mean widen primit box unbox convers respect 
+2
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.FieldMetaData.java.FieldMetaData.getFactoryMethod()
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.FieldMetaData.java.FieldMetaData.findMethod(String)
+
+3
+factori valu valueof 
+2
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.FieldMetaData.java.FieldMetaData.getFactoryMethod()
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.FieldMetaData.java.FieldMetaData.findMethod(String)
+
+4
+sybas reserv word us column name 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.SybaseDictionary.java.SybaseDictionary.SybaseDictionary()
+
+5
+investig reserv name sybas show reserv word us column name er side caution disabl 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.SybaseDictionary.java.SybaseDictionary.SybaseDictionary()
+
+6
+sybas column word 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.SybaseDictionary.java.SybaseDictionary.SybaseDictionary()
+
+7
+travers on onetomani relationship return empti list inherit type inheritancetyp join singl tabl singl tabl us 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.JDBCStoreManager.java.JDBCStoreManager.getJoinedSupers(Select,ClassMapping,int,boolean)
+
+8
+includ test name on joinabl test onemanyjoinabletest test recreat issu jira basic test consist parent defin inherit strategi inherit type inheritancetyp join on subclass hierarchi contain bidirect on onetomani relationship travers on manytoon side relat work travers on onetomani side empti list return run test open jpa openjpa gener incorrect sql follow select t1 id t0 id t2 id t3 id t1 name from uml type umltyp t0 uml name umlnam t1 uml umlclass t2 uml primit type umlprimitivetyp t3 t0 ownerpackag id ownerpackag id t2 id t3 id t0 id t1 id t0 id t2 id t0 id t3 id note t2 id t3 id suspect test pass open jpa openjpa fail open jpa openjpa ward 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.JDBCStoreManager.java.JDBCStoreManager.getJoinedSupers(Select,ClassMapping,int,boolean)
+
+9
+inherit type join on onetomani 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.JDBCStoreManager.java.JDBCStoreManager.getJoinedSupers(Select,ClassMapping,int,boolean)
+
+10
+meta data repositori metadatarepositori preload ignor loader return persist unit info persistenceunitinfo get loader getclassload 
+2
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.MetaDataRepository.java.MetaDataRepository.preload()
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.FieldMetaData.java.FieldMetaData.hashCode()
+
+11
+openjpa insid osgi contain openjpa meta data repositori metadatarepositori valu preload pass appliat loeader part persist unit info persistenceunitinfo implement return from persist unit info persistenceunitinfo get loader getclassload code meta data repositori metadatarepositori preload us context loader loader from persist unit info persistenceunitinfo lead found expcet classnotfoundexpcet mention end report fix easili establih append valu persist unit info persistenceunitinfo get loader getclassload list claa loader particip multi loader multiclassload set up meta data repositori metadatarepositori java addition set classload context loader creation entiti manag factori entitymanagerfactori persist provid persistenceprovid creat contain entiti manag factori createcontainerentitymanagerfactori fix meta dat repositori metadatrepositori preload highli appreci tia fix wolfgang stack trace org osgi servic blueprint contain compon definit except componentdefinitionexcept error instanti bean entiti manag factori entitymanagerfactori org apach ari blueprint contain bean recip beanrecip get instanc getinst bean recip beanrecip java org apach ari blueprint incub snapshot org apach ari blueprint contain bean recip beanrecip intern creat internalcr bean recip beanrecip java org apach ari blueprint incub snapshot org apach ari blueprint di abstract recip abstractrecip creat abstract recip abstractrecip java org apach ari blueprint incub snapshot org apach ari blueprint contain blueprint repositori blueprintrepositori creat instanc createinst blueprint repositori blueprintrepositori java org apach ari blueprint incub snapshot org apach ari blueprint contain blueprint repositori blueprintrepositori creat createal blueprint repositori blueprintrepositori java org apach ari blueprint incub snapshot org apach ari blueprint contain blueprint contain impl blueprintcontainerimpl instanti eager compon instantiateeagercompon blueprint contain impl blueprintcontainerimpl java org apach ari blueprint incub snapshot org apach ari blueprint contain blueprint contain impl blueprintcontainerimpl run dorun blueprint contain impl blueprintcontainerimpl java org apach ari blueprint incub snapshot org apach ari blueprint contain blueprint contain impl blueprintcontainerimpl run blueprint contain impl blueprintcontainerimpl java org apach ari blueprint incub snapshot java util concurr executor runnabl adapt runnableadapt call executor java java util concurr futur task futuretask sync inner run innerrun futur task futuretask java java util concurr futur task futuretask run futur task futuretask java java util concurr schedul thread pool executor scheduledthreadpoolexecutor schedul futur task scheduledfuturetask access schedul thread pool executor scheduledthreadpoolexecutor java java util concurr schedul thread pool executor scheduledthreadpoolexecutor schedul futur task scheduledfuturetask run schedul thread pool executor scheduledthreadpoolexecutor java java util concurr thread pool executor threadpoolexecutor run worker runwork thread pool executor threadpoolexecutor java java util concurr thread pool executor threadpoolexecutor worker run thread pool executor threadpoolexecutor java java lang thread run thread java caus openjpa r422266 fatal user error org apach openjpa persist argument except argumentexcept unexpect error earli load entiti metadata initi nest stacktrac detail org apach openjpa meta meta data repositori metadatarepositori preload meta data repositori metadatarepositori java org apach openjpa persist persist provid impl persistenceproviderimpl preload meta data repositori preloadmetadatarepositori persist provid impl persistenceproviderimpl java org apach openjpa persist persist provid impl persistenceproviderimpl creat contain entiti manag factori createcontainerentitymanagerfactori persist provid impl persistenceproviderimpl java org apach openjpa persist persist provid impl persistenceproviderimpl creat contain entiti manag factori createcontainerentitymanagerfactori persist provid impl persistenceproviderimpl java sun reflect method accessor impl nativemethodaccessorimpl invoke0 method sun reflect method accessor impl nativemethodaccessorimpl invok method accessor impl nativemethodaccessorimpl java sun reflect deleg method accessor impl delegatingmethodaccessorimpl invok deleg method accessor impl delegatingmethodaccessorimpl java java lang reflect method invok method java org apach ari blueprint contain abstract servic refer recip abstractservicereferencerecip jdk proxi factori jdkproxyfactori invok abstract servic refer recip abstractservicereferencerecip java proxy67 creat contain entiti manag factori createcontainerentitymanagerfactori unknown sourc org clazz util jpa provid entiti manag factori factori entitymanagerfactoryfactori entiti manag factori newentitymanagerfactori entiti manag factori factori entitymanagerfactoryfactori java sun reflect method accessor impl nativemethodaccessorimpl invoke0 method sun reflect method accessor impl nativemethodaccessorimpl invok method accessor impl nativemethodaccessorimpl java sun reflect deleg method accessor impl delegatingmethodaccessorimpl invok deleg method accessor impl delegatingmethodaccessorimpl java java lang reflect method invok method java org apach ari blueprint util reflect util reflectionutil invok reflect util reflectionutil java org apach ari blueprint incub snapshot org apach ari blueprint contain bean recip beanrecip invok bean recip beanrecip java org apach ari blueprint incub snapshot org apach ari blueprint contain bean recip beanrecip get instanc getinst bean recip beanrecip java org apach ari blueprint incub snapshot more caus java secur privileg action except privilegedactionexcept java lang found except classnotfoundexcept org clazz fancymail server entiti mail email java secur access control accesscontrol privileg doprivileg method org apach openjpa meta meta data repositori metadatarepositori preload meta data repositori metadatarepositori java more caus java lang found except classnotfoundexcept org clazz fancymail server entiti mail email org apach openjpa lib util multi loader multiclassload find findclass multi loader multiclassload java java lang loader classload load loadclass loader classload java java lang loader classload load loadclass loader classload java java lang name0 forname0 method java lang name fornam java org apach openjpa lib util j2 priv helper j2doprivhelp run j2 priv helper j2doprivhelp java org apach openjpa lib util j2 priv helper j2doprivhelp run j2 priv helper j2doprivhelp java more 
+2
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.MetaDataRepository.java.MetaDataRepository.preload()
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.FieldMetaData.java.FieldMetaData.hashCode()
+
+12
+meta data repositori metadatarepositori preload 
+2
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.MetaDataRepository.java.MetaDataRepository.preload()
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.FieldMetaData.java.FieldMetaData.hashCode()
+
+13
+test pessimist lock testpessimisticlock junit test produc inconsist behavior backend 
+5
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.testQueryOrderByAfterFindWithPessimisticLocks()
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.testFindAfterQueryWithPessimisticLocks()
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.setUp()
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.testQueryAfterFindWithPessimisticLocks()
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.testFindAfterQueryOrderByWithPessimisticLocks()
+
+14
+test pessimist lock testpessimisticlock junit test pass assert derbi backend failur db2 sql mysql oracl failur occur backend problem open jpa openjpa code handl pessimist lock request inconsist report except lock timout queri timeout non fatal derbi pessimist lock except pessimisticlockexcept report consid fatal test scenario problemat test pessisimit lock testpessisimiticlock ha test case last test work backend problem test case list test find after queri pessimist lock testfindafterquerywithpessimisticlock test find after queri order pessimist lock testfindafterqueryorderbywithpessimisticlock test queri after find pessimist lock testqueryafterfindwithpessimisticlock test queri order after find pessimist lock testqueryorderbyafterfindwithpessimisticlock failur symptom summar test contain variat dot notat exampl first scenario test find after queri pessimist lock testfindafterquerywithpessimisticlock test scenario expect except except except report select sql result from databas test derbi db2 v9 db2v9 oracle10 xe oracle10gx sql mysql jdbc pessimist lock except pessimisticlockexcept lock timeout except locktimeoutexcept lock timeout except locktimeoutexcept lock timeout except locktimeoutexcept except except except except pessimist lock except pessimisticlockexcept lock timeout except locktimeoutexcept lock timeout except locktimeoutexcept lock timeout except locktimeoutexcept except lock timeout except locktimeoutexcept except lock timeout except locktimeoutexcept except queri timeout except querytimeoutexcept process hang persist except persistenceexcept server shutdown code state pessimist lock except pessimisticlockexcept queri timeout except querytimeoutexcept process hang persist except persistenceexcept server shutdown code state except queri timeout except querytimeoutexcept except queri timeout except querytimeoutexcept pessimist lock except pessimisticlockexcept queri timeout except querytimeoutexcept process hang queri timeout except querytimeoutexcept note oracl test scenario caus process hang test test run complet sql mysql server shutdown test here stack trace org apach openjpa persist persist except persistenceexcept server shutdown progress prepstmnt select t1 id t1 name from employe t0 left outer join depart t1 t0 fk dept fk dept t1 id t0 id limit updat param code state openjpa snapshot rexport fatal gener error org apach openjpa persist persist except persistenceexcept server shutdown progress prepstmnt select t1 id t1 name from employe t0 left outer join depart t1 t0 fk dept fk dept t1 id t0 id limit updat param code state fail object failedobject select depart from employe id java lang string org apach openjpa jdbc sql db dictionari dbdictionari narrow db dictionari dbdictionari java org apach openjpa jdbc sql db dictionari dbdictionari store except newstoreexcept db dictionari dbdictionari java org apach openjpa jdbc sql sql except sqlexcept get store getstor sql except sqlexcept java org apach openjpa jdbc sql sql except sqlexcept get store getstor sql except sqlexcept java org apach openjpa jdbc sql sql except sqlexcept get store getstor sql except sqlexcept java org apach openjpa jdbc kernel select result object provid selectresultobjectprovid handl check except handlecheckedexcept select result object provid selectresultobjectprovid java org apach openjpa kernel queri impl queryimpl pack result object provid packingresultobjectprovid handl check except handlecheckedexcept queri impl queryimpl java org apach openjpa lib rop eager result list eagerresultlist init eager result list eagerresultlist java org apach openjpa kernel queri impl queryimpl result toresult queri impl queryimpl java org apach openjpa kernel queri impl queryimpl execut queri impl queryimpl java org apach openjpa kernel queri impl queryimpl execut queri impl queryimpl java org apach openjpa kernel queri impl queryimpl execut queri impl queryimpl java org apach openjpa kernel deleg queri delegatingqueri execut deleg queri delegatingqueri java org apach openjpa persist queri impl queryimpl execut queri impl queryimpl java org apach openjpa persist queri impl queryimpl get result list getresultlist queri impl queryimpl java org apach openjpa persist lockmgr test pessimist lock testpessimisticlock test queri after find pessimist lock testqueryafterfindwithpessimisticlock test pessimist lock testpessimisticlock java sun reflect method accessor impl nativemethodaccessorimpl invoke0 method sun reflect method accessor impl nativemethodaccessorimpl invok unknown sourc sun reflect deleg method accessor impl delegatingmethodaccessorimpl invok unknown sourc java lang reflect method invok unknown sourc junit framework test testcas run test runtest test testcas java org apach openjpa persist test abstract persist test abstractpersistencetestcas run test runtest abstract persist test abstractpersistencetestcas java junit framework test testcas run bare runbar test testcas java org apach openjpa persist test abstract persist test abstractpersistencetestcas run bare runbar abstract persist test abstractpersistencetestcas java org apach openjpa persist test abstract persist test abstractpersistencetestcas run bare runbar abstract persist test abstractpersistencetestcas java junit framework test result testresult protect test result testresult java junit framework test result testresult run runprotect test result testresult java junit framework test result testresult run test result testresult java junit framework test testcas run test testcas java org apach openjpa persist test abstract persist test abstractpersistencetestcas run abstract persist test abstractpersistencetestcas java junit framework test suit testsuit run test runtest test suit testsuit java junit framework test suit testsuit run test suit testsuit java org eclips jdt intern junit runner junit3 unit3 test refer junit3testrefer run unit3 test refer junit3testrefer java org eclips jdt intern junit runner test execut testexecut run test execut testexecut java org eclips jdt intern junit runner remot test runner remotetestrunn run test runtest remot test runner remotetestrunn java org eclips jdt intern junit runner remot test runner remotetestrunn run test runtest remot test runner remotetestrunn java org eclips jdt intern junit runner remot test runner remotetestrunn run remot test runner remotetestrunn java org eclips jdt intern junit runner remot test runner remotetestrunn main remot test runner remotetestrunn java caus org apach openjpa lib jdbc report sql except reportingsqlexcept server shutdown progress prepstmnt select t1 id t1 name from employe t0 left outer join depart t1 t0 fk dept fk dept t1 id t0 id limit updat param code state org apach openjpa lib jdbc log connect decor loggingconnectiondecor wrap log connect decor loggingconnectiondecor java org apach openjpa lib jdbc log connect decor loggingconnectiondecor wrap log connect decor loggingconnectiondecor java org apach openjpa lib jdbc log connect decor loggingconnectiondecor access log connect decor loggingconnectiondecor java org apach openjpa lib jdbc log connect decor loggingconnectiondecor log connect loggingconnect log prepar statement loggingpreparedstat execut queri executequeri log connect decor loggingconnectiondecor java org apach openjpa lib jdbc deleg prepar statement delegatingpreparedstat execut queri executequeri deleg prepar statement delegatingpreparedstat java org apach openjpa jdbc kernel jdbc store manag jdbcstoremanag cancel prepar statement cancelpreparedstat execut queri executequeri jdbc store manag jdbcstoremanag java org apach openjpa lib jdbc deleg prepar statement delegatingpreparedstat execut queri executequeri deleg prepar statement delegatingpreparedstat java org apach openjpa jdbc sql select impl selectimpl execut queri executequeri select impl selectimpl java org apach openjpa jdbc sql select impl selectimpl execut select impl selectimpl java org apach openjpa jdbc sql select impl selectimpl execut select impl selectimpl java org apach openjpa jdbc kernel select result object provid selectresultobjectprovid open select result object provid selectresultobjectprovid java org apach openjpa kernel queri impl queryimpl pack result object provid packingresultobjectprovid open queri impl queryimpl java org apach openjpa lib rop eager result list eagerresultlist init eager result list eagerresultlist java more nest throwabl nestedthrow com mysql jdbc except jdbc4 sql non connect except mysqlnontransientconnectionexcept server shutdown progress sun reflect constructor accessor impl nativeconstructoraccessorimpl instance0 newinstance0 method sun reflect constructor accessor impl nativeconstructoraccessorimpl instanc newinst unknown sourc sun reflect deleg constructor accessor impl delegatingconstructoraccessorimpl instanc newinst unknown sourc java lang reflect constructor instanc newinst unknown sourc com mysql jdbc util handl instanc handlenewinst util java com mysql jdbc util get instanc getinst util java com mysql jdbc sql error sqlerror creat sql except createsqlexcept sql error sqlerror java com mysql jdbc sql error sqlerror creat sql except createsqlexcept sql error sqlerror java com mysql jdbc mysql io mysqlio check error packet checkerrorpacket mysql io mysqlio java com mysql jdbc mysql io mysqlio next row fast nextrowfast mysql io mysqlio java com mysql jdbc mysql io mysqlio next row nextrow mysql io mysqlio java com mysql jdbc mysql io mysqlio read singl row set readsinglerowset mysql io mysqlio java com mysql jdbc mysql io mysqlio get result set getresultset mysql io mysqlio java com mysql jdbc mysql io mysqlio read result queri updat readresultsforqueryorupd mysql io mysqlio java com mysql jdbc mysql io mysqlio read result readallresult mysql io mysqlio java com mysql jdbc mysql io mysqlio sql queri direct sqlquerydirect mysql io mysqlio java com mysql jdbc connect impl connectionimpl exec sql execsql connect impl connectionimpl java com mysql jdbc prepar statement preparedstat execut intern executeintern prepar statement preparedstat java com mysql jdbc prepar statement preparedstat execut queri executequeri prepar statement preparedstat java org apach common dbcp deleg prepar statement delegatingpreparedstat execut queri executequeri deleg prepar statement delegatingpreparedstat java org apach openjpa lib jdbc deleg prepar statement delegatingpreparedstat execut queri executequeri deleg prepar statement delegatingpreparedstat java org apach openjpa lib jdbc jdbc event connect decor jdbceventconnectiondecor event prepar statement eventpreparedstat execut queri executequeri jdbc event connect decor jdbceventconnectiondecor java org apach openjpa lib jdbc deleg prepar statement delegatingpreparedstat execut queri executequeri deleg prepar statement delegatingpreparedstat java org apach openjpa lib jdbc log connect decor loggingconnectiondecor log connect loggingconnect log prepar statement loggingpreparedstat execut queri executequeri log connect decor loggingconnectiondecor java org apach openjpa lib jdbc deleg prepar statement delegatingpreparedstat execut queri executequeri deleg prepar statement delegatingpreparedstat java org apach openjpa jdbc kernel jdbc store manag jdbcstoremanag cancel prepar statement cancelpreparedstat execut queri executequeri jdbc store manag jdbcstoremanag java org apach openjpa lib jdbc deleg prepar statement delegatingpreparedstat execut queri executequeri deleg prepar statement delegatingpreparedstat java org apach openjpa jdbc sql select impl selectimpl execut queri executequeri select impl selectimpl java org apach openjpa jdbc sql select impl selectimpl execut select impl selectimpl java org apach openjpa jdbc sql select impl selectimpl execut select impl selectimpl java org apach openjpa jdbc kernel select result object provid selectresultobjectprovid open select result object provid selectresultobjectprovid java org apach openjpa kernel queri impl queryimpl pack result object provid packingresultobjectprovid open queri impl queryimpl java org apach openjpa lib rop eager result list eagerresultlist init eager result list eagerresultlist java org apach openjpa kernel queri impl queryimpl result toresult queri impl queryimpl java org apach openjpa kernel queri impl queryimpl execut queri impl queryimpl java org apach openjpa kernel queri impl queryimpl execut queri impl queryimpl java org apach openjpa kernel queri impl queryimpl execut queri impl queryimpl java org apach openjpa kernel deleg queri delegatingqueri execut deleg queri delegatingqueri java org apach openjpa persist queri impl queryimpl execut queri impl queryimpl java org apach openjpa persist queri impl queryimpl get result list getresultlist queri impl queryimpl java org apach openjpa persist lockmgr test pessimist lock testpessimisticlock test queri after find pessimist lock testqueryafterfindwithpessimisticlock test pessimist lock testpessimisticlock java sun reflect method accessor impl nativemethodaccessorimpl invoke0 method sun reflect method accessor impl nativemethodaccessorimpl invok unknown sourc sun reflect deleg method accessor impl delegatingmethodaccessorimpl invok unknown sourc java lang reflect method invok unknown sourc junit framework test testcas run test runtest test testcas java org apach openjpa persist test abstract persist test abstractpersistencetestcas run test runtest abstract persist test abstractpersistencetestcas java junit framework test testcas run bare runbar test testcas java org apach openjpa persist test abstract persist test abstractpersistencetestcas run bare runbar abstract persist test abstractpersistencetestcas java org apach openjpa persist test abstract persist test abstractpersistencetestcas run bare runbar abstract persist test abstractpersistencetestcas java junit framework test result testresult protect test result testresult java junit framework test result testresult run runprotect test result testresult java junit framework test result testresult run test result testresult java junit framework test testcas run test testcas java org apach openjpa persist test abstract persist test abstractpersistencetestcas run abstract persist test abstractpersistencetestcas java junit framework test suit testsuit run test runtest test suit testsuit java junit framework test suit testsuit run test suit testsuit java org eclips jdt intern junit runner junit3 unit3 test refer junit3testrefer run unit3 test refer junit3testrefer java org eclips jdt intern junit runner test execut testexecut run test execut testexecut java org eclips jdt intern junit runner remot test runner remotetestrunn run test runtest remot test runner remotetestrunn java org eclips jdt intern junit runner remot test runner remotetestrunn run test runtest remot test runner remotetestrunn java org eclips jdt intern junit runner remot test runner remotetestrunn run remot test runner remotetestrunn java org eclips jdt intern junit runner remot test runner remotetestrunn main remot test runner remotetestrunn java 
+5
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.testQueryOrderByAfterFindWithPessimisticLocks()
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.testFindAfterQueryWithPessimisticLocks()
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.setUp()
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.testQueryAfterFindWithPessimisticLocks()
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.testFindAfterQueryOrderByWithPessimisticLocks()
+
+15
+test pessimist lock testpessimisticlock 
+5
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.testQueryOrderByAfterFindWithPessimisticLocks()
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.testFindAfterQueryWithPessimisticLocks()
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.setUp()
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.testQueryAfterFindWithPessimisticLocks()
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.testFindAfterQueryOrderByWithPessimisticLocks()
+
+16
+unwrap entiti manag entitymanag connect 
+1
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.EntityManagerImpl.java.EntityManagerImpl.unwrap(Class<T>)
+
+17
+current recommend access javax sql connect underli entiti manag entitymanag open jpa entiti manag openjpaentitymanag oem open jpa persist openjpapersist cast em connect connect oem get connect getconnect more conveni simpli write connect em unwrap connect client need access connect depend javax persist api org apach openjpa jpa spec mandat forbid function support eclipselink 
+1
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.EntityManagerImpl.java.EntityManagerImpl.unwrap(Class<T>)
+
+18
+open jpa persist openjpapersist cast 
+1
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.EntityManagerImpl.java.EntityManagerImpl.unwrap(Class<T>)
+
+19
+obtain schema name need db2 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.DBDictionary.java.DBDictionary.connectedConfiguration(Connection)
+
+20
+current db2 issu sql obtain schema name db2 dictionari db2dictionari connect configur connectedconfigur valu us schema tool schematool extra sql ha impact environ sql delai schema name need reduc load db 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.DBDictionary.java.DBDictionary.connectedConfiguration(Connection)
+
+21
+db2 dictionari db2dictionari connect configur connectedconfigur 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.DBDictionary.java.DBDictionary.connectedConfiguration(Connection)
+
+22
+bean valid fail merg entiti 
+3
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.AttachStrategy.java.AttachStrategy.persist(AttachManager,PersistenceCapable,ClassMetaData,Object,boolean)
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.BrokerImpl.java.BrokerImpl.persist(Object,Object,boolean,OpCallbacks)
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.BrokerImpl.java.BrokerImpl.persistAll(Collection,boolean,OpCallbacks)
+
+23
+bean valid work correctli merg entiti entiti manag entitymanag em entiti manag factori entitymanagerfactori creat entiti manag createentitymanag person person person person set name setnam oliv employe name annot notnul person em merg person get constraint valid except constraintvalidationexcept name set 
+3
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.AttachStrategy.java.AttachStrategy.persist(AttachManager,PersistenceCapable,ClassMetaData,Object,boolean)
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.BrokerImpl.java.BrokerImpl.persist(Object,Object,boolean,OpCallbacks)
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.BrokerImpl.java.BrokerImpl.persistAll(Collection,boolean,OpCallbacks)
+
+24
+merg constraint valid except constraintvalidationexcept 
+3
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.AttachStrategy.java.AttachStrategy.persist(AttachManager,PersistenceCapable,ClassMetaData,Object,boolean)
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.BrokerImpl.java.BrokerImpl.persist(Object,Object,boolean,OpCallbacks)
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.BrokerImpl.java.BrokerImpl.persistAll(Collection,boolean,OpCallbacks)
+
+25
+treat oracl xml type xmltype column xml 
+2
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.OracleDictionary.java.OracleDictionary.getColumns(DatabaseMetaData,DBIdentifier,DBIdentifier,DBIdentifier,DBIdentifier,Connection)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.schema.Table.java.Table.importColumn(Column)
+
+26
+openjpa ad abil detect xml column base type name remov openjpa order support databas sql mysql don us type name includ xml issu add autodetect oracl xml type xmltype column 
+2
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.OracleDictionary.java.OracleDictionary.getColumns(DatabaseMetaData,DBIdentifier,DBIdentifier,DBIdentifier,DBIdentifier,Connection)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.schema.Table.java.Table.importColumn(Column)
+
+27
+oracl xml type column 
+2
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.OracleDictionary.java.OracleDictionary.getColumns(DatabaseMetaData,DBIdentifier,DBIdentifier,DBIdentifier,DBIdentifier,Connection)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.schema.Table.java.Table.importColumn(Column)
+
+28
+oracl xml type xmltype column fail insert updat xml contain more charact 
+3
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.OracleDictionary.java.OracleDictionary.connectedConfiguration(Connection)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.RowImpl.java.RowImpl.getUpdateSQL(DBDictionary)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.RowImpl.java.RowImpl.getInsertSQL(DBDictionary)
+
+29
+oracl follow except xml content greater charact ora bind valu insert column 
+3
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.OracleDictionary.java.OracleDictionary.connectedConfiguration(Connection)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.RowImpl.java.RowImpl.getUpdateSQL(DBDictionary)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.RowImpl.java.RowImpl.getInsertSQL(DBDictionary)
+
+30
+oracl xml type column 
+3
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.OracleDictionary.java.OracleDictionary.connectedConfiguration(Connection)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.RowImpl.java.RowImpl.getUpdateSQL(DBDictionary)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.RowImpl.java.RowImpl.getInsertSQL(DBDictionary)
+
+31
+invalid header meta model metamodel class gener annot processor annotationprocessor 
+3
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.meta.AnnotationProcessor6.java.AnnotationProcessor6.comment(SourceCode)
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.meta.AnnotationProcessor6.java.AnnotationProcessor6.setHeader()
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.util.SourceCode.java.SourceCode.addComment(boolean,String[])
+
+32
+document http openjpa apach org build latest doc manual ch13 s04 ch13s04 html talk option avail org apach openjpa persist meta annot processor6 annotationprocessor6 aopenjpa header url url content appear comment header gener file option work url http file url doesn put content from url header gener file put sun net www content text plain text input stream plaintextinputstream header suspect annot processor annotationprocessor essenti url headerurl url openjpa header valu string header comment newheadercom headerurl get content getcont string tostr get content getcont return input stream inputstream document here absenc content handler factori http download oracl com javas doc api java net url connect urlconnect html get content getcont string tostr call return string represent instanc input stream inputstream object annot processor annotationprocessor read from stream 
+3
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.meta.AnnotationProcessor6.java.AnnotationProcessor6.comment(SourceCode)
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.meta.AnnotationProcessor6.java.AnnotationProcessor6.setHeader()
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.util.SourceCode.java.SourceCode.addComment(boolean,String[])
+
+33
+annot processor annotationprocessor header url 
+3
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.meta.AnnotationProcessor6.java.AnnotationProcessor6.comment(SourceCode)
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.meta.AnnotationProcessor6.java.AnnotationProcessor6.setHeader()
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.util.SourceCode.java.SourceCode.addComment(boolean,String[])
+
+34
+enhanc gener invalid code fetch group activ 
+2
+openjpa-kernel.src.main.java.org.apache.openjpa.enhance.PCEnhancer.java.PCEnhancer.addWriteExternal(boolean,boolean)
+openjpa-kernel.src.main.java.org.apache.openjpa.enhance.PCEnhancer.java.PCEnhancer.addReadExternal(boolean,boolean)
+
+35
+openjpa detach state detachst fetch group us enhanc add externaliz write extern writeextern read extern readextern problem write extern writeextern read extern readextern extern member superclass get runtim except allow access field exampl entiti abstract abstract group abstractgroup tempor tempor type temporaltyp timestamp track chang trackchang date applic begin applicationbegin entiti group abstract group abstractgroup result follow code decompil jad write extern writeextern object output objectoutput objectoutput io except ioexcept pc write unmanag pcwriteunmanag objectoutput pc state manag pcstatemanag pc state manag pcstatemanag write detach writedetach objectoutput objectoutput write object writeobject pc get detach state pcgetdetachedst objectoutput write object writeobject objectoutput write object writeobject applic begin applicationbegin objectoutput write object writeobject applic end applicationend objectoutput write object writeobject applic lock applicationlock objectoutput write object writeobject approv requir approvalrequir 
+2
+openjpa-kernel.src.main.java.org.apache.openjpa.enhance.PCEnhancer.java.PCEnhancer.addWriteExternal(boolean,boolean)
+openjpa-kernel.src.main.java.org.apache.openjpa.enhance.PCEnhancer.java.PCEnhancer.addReadExternal(boolean,boolean)
+
+36
+enhanc fetch group 
+2
+openjpa-kernel.src.main.java.org.apache.openjpa.enhance.PCEnhancer.java.PCEnhancer.addWriteExternal(boolean,boolean)
+openjpa-kernel.src.main.java.org.apache.openjpa.enhance.PCEnhancer.java.PCEnhancer.addReadExternal(boolean,boolean)
+
+37
+deadlock potenti orm xml process 
+2
+openjpa-lib.src.main.java.org.apache.openjpa.lib.meta.XMLMetaDataParser.java.XMLMetaDataParser.parseNewResource(Reader,String)
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.XMLPersistenceMetaDataParser.java.XMLPersistenceMetaDataParser.setRepository(MetaDataRepository)
+
+38
+exist potenti deadlock orm xml process function environ multipl thread applic server oper creat entiti manag factori entitymanagerfactori transform classload activ lead point xerc sax parser acquir xml factori xmlfactori constitut execut xerc call thread current thread currentthread get context classload getcontextclassload execut construct sax parser saxpars object factori objectfactori creat object createobject mean call xerc loader classload lock attempt thread context loader contextclassload lock loader classload higher heirarchi thread lock context loader contextclassload wait acquir lock higher level loader classload deadlock occur solut problem tempor set thread context loader contextclassload point xml api invok xml factori xmlfactori xml meta data parser xmlmetadatapars loader classload load open jpa openjpa implement class prevent xerc from start lower level classload avoid deadlock potenti 
+2
+openjpa-lib.src.main.java.org.apache.openjpa.lib.meta.XMLMetaDataParser.java.XMLMetaDataParser.parseNewResource(Reader,String)
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.XMLPersistenceMetaDataParser.java.XMLPersistenceMetaDataParser.setRepository(MetaDataRepository)
+
+39
+xml loader 
+2
+openjpa-lib.src.main.java.org.apache.openjpa.lib.meta.XMLMetaDataParser.java.XMLMetaDataParser.parseNewResource(Reader,String)
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.XMLPersistenceMetaDataParser.java.XMLPersistenceMetaDataParser.setRepository(MetaDataRepository)
+
+40
+openjpa us applic loader classload resolv broker factori brokerfactori revisit 
+1
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.PersistenceProviderImpl.java.PersistenceProviderImpl.createEntityManagerFactory(String,String,Map)
+
+41
+openjpa wrapper insid apach karaf wrapper essenti set context loader loader applic bundl call persist provid persistenceprovid creat entiti manag factori createentitymanagerfactori string em name emnam map map servic export openjpa get except cite end report pretti issu openjpa except occur altern method persist provid persistenceprovid creat contain entiti manag factori createcontainerentitymanagerfactori persist unit info persistenceunitinfo pui map code org apach openjpa persist persist provid impl persistenceproviderimpl get broker factori getbrokerfactori persist provid impl persistenceproviderimpl java read broker factori brokerfactori factori get broker factori getbrokerfactori cp pool valu poolvalu exactli issu openjpa lass loader classload caus underli code us context loader set loader applic loader openjpa bundl replac mention line broker factori brokerfactori factori get broker factori getbrokerfactori cp pool valu poolvalu bundl util bundleutil get bundl loader getbundleclassload fix issu openjpa remark bundl util bundleutil get bundl loader getbundleclassload osgi context code work osgi best wolfgang stack trace org osgi servic blueprint contain compon definit except componentdefinitionexcept error instanti bean entiti manag factori entitymanagerfactori org apach ari blueprint contain bean recip beanrecip get instanc getinst bean recip beanrecip java org apach ari blueprint incub snapshot org apach ari blueprint contain bean recip beanrecip intern creat internalcr bean recip beanrecip java org apach ari blueprint incub snapshot org apach ari blueprint di abstract recip abstractrecip creat abstract recip abstractrecip java org apach ari blueprint incub snapshot org apach ari blueprint contain blueprint repositori blueprintrepositori creat instanc createinst blueprint repositori blueprintrepositori java org apach ari blueprint incub snap hot org apach ari blueprint contain blueprint repositori blueprintrepositori creat createal blueprint repositori blueprintrepositori java org apach ari blueprint incub snapshot org apach ari blueprint contain blueprint contain impl blueprintcontainerimpl instanti eager compon instantiateeagercompon blueprint contain impl blueprintcontainerimpl java org apach ari blueprint incub snapshot org apach ari blueprint contain blueprint contain impl blueprintcontainerimpl run dorun blueprint contain impl blueprintcontainerimpl java org apach ari blueprint incub snapshot org apach ari blueprint contain blueprint contain impl blueprintcontainerimpl run blueprint contain impl blueprintcontainerimpl java org apach ari blueprint incub snapshot java util concurr executor runnabl adapt runnableadapt call executor java java util concurr futur task futuretask sync inner run innerrun futur task futuretask java java util concurr futur task futuretask run futur task futuretask java java util concurr schedul thread pool executor scheduledthreadpoolexecutor schedul futur task scheduledfuturetask access schedul thread pool executor scheduledthreadpoolexecutor java java util concurr schedul thread pool executor scheduledthreadpoolexecutor schedul futur task scheduledfuturetask run schedul thread pool executor scheduledthreadpoolexecutor java java util concurr thread pool executor threadpoolexecutor run worker runwork thread pool executor threadpoolexecutor java java util concurr thread pool executor threadpoolexecutor worker run thread pool executor threadpoolexecutor java java lang thread run thread java caus openjpa r422266 fatal user error org apach openjpa persist argument except argumentexcept invok instanc newinst method na med factori openjpa r422266 fatal user error org apach openjpa util user except userexcept name broker factori brokerfactori org apach openjpa jdbc kernel jdbc broker factori jdbcbrokerfactori valid org apach openjpa kernel bootstrap broker factori newbrokerfactori bootstrap java org apach openjpa persist persist provid impl persistenceproviderimpl get broker factori getbrokerfactori persist provid impl persistenceproviderimpl java org apach openjpa persist persist provid impl persistenceproviderimpl creat entiti manag factori createentitymanagerfactori persist provid impl persistenceproviderimpl java org apach openjpa persist persist provid impl persistenceproviderimpl creat entiti manag factori createentitymanagerfactori persist provid impl persistenceproviderimpl java org apach openjpa persist persist provid impl persistenceproviderimpl creat entiti manag factori createentitymanagerfactori persist provid impl persistenceproviderimpl java sun reflect method accessor impl nativemethodaccessorimpl invoke0 method sun reflect method accessor impl nativemethodaccessorimpl invok method accessor impl nativemethodaccessorimpl java sun reflect deleg method accessor impl delegatingmethodaccessorimpl invok deleg method accessor impl delegatingmethodaccessorimpl java java lang reflect method invok method java org apach ari blueprint contain abstract servic refer recip abstractservicereferencerecip jdk proxi factori jdkproxyfactori invok abstract servic refer recip abstractservicereferencerecip java proxy48 creat entiti manag factori createentitymanagerfactori unknown sourc org clazz util jpa provid entiti manag factori factori entitymanagerfactoryfactori entiti manag factori newentitymanagerfactori entiti manag factori factori entitymanagerfactoryfactori java sun reflect method accessor impl nativemethodaccessorimpl invoke0 method sun reflect method accessor impl nativemethodaccessorimpl invok method accessor impl nativemethodaccessorimpl java sun reflect deleg method accessor impl delegatingmethodaccessorimpl invok deleg method accessor impl delegatingmethodaccessorimpl java java lang reflect method invok method java org apach ari blueprint util reflect util reflectionutil invok reflect util reflectionutil java org apach ari blueprint incub snapshot org apach ari blueprint contain bean recip beanrecip invok bean recip beanrecip java org apach ari blueprint incub snapshot org apach ari blueprint contain bean recip beanrecip get instanc getinst bean recip beanrecip java org apach ari blueprint incub snapshot more caus openjpa r422266 fatal user error org apach openjpa persist argument except argumentexcept name broker factori brokerfactori org apach openjpa jdbc kernel jdbc broker factori jdbcbrokerfactori valid org apach openjpa kernel bootstrap get factori getfactoryclass bootstrap java org apach openjpa kernel bootstrap invok factori invokefactori bootstrap java org apach openjpa kernel bootstrap broker factori newbrokerfactori bootstrap java more caus java lang found except classnotfoundexcept org apach openjpa jdbc kernel jdbc broker factori jdbcbrokerfactori java net url loader urlclassload run url loader urlclassload java java secur access control accesscontrol privileg doprivileg method java net url loader urlclassload find findclass url loader urlclassload java java lang loader classload load loadclass loader classload java sun misc launcher app loader appclassload load loadclass launcher java java lang loader classload load loadclass loader classload java java lang name0 forname0 method java lang name fornam java org apach openjpa kernel bootstrap get factori getfactoryclass bootstrap java more 
+1
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.PersistenceProviderImpl.java.PersistenceProviderImpl.createEntityManagerFactory(String,String,Map)
+
+42
+persist provid impl persistenceproviderimpl get broker factori getbrokerfactori 
+1
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.PersistenceProviderImpl.java.PersistenceProviderImpl.createEntityManagerFactory(String,String,Map)
+
+43
+state manag statemanag embedd except initi 
+1
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.StateManagerImpl.java.StateManagerImpl.StateManagerImpl(Object,ClassMetaData,BrokerImpl)
+
+44
+complex graph nest embedd us applic data model issu surfac open jpa openjpa provid instanti intern state manag repres nest embedd issu result except except thrown base gener assert nest embedd ident associ embed entiti bear ident sampl except openjpa snapshot r422266 nonfat user error org apach openjpa persist argument except argumentexcept manipul ident type embedd classnam ident type unknown 
+1
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.StateManagerImpl.java.StateManagerImpl.StateManagerImpl(Object,ClassMetaData,BrokerImpl)
+
+45
+state manag statemanag embedd 
+1
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.StateManagerImpl.java.StateManagerImpl.StateManagerImpl(Object,ClassMetaData,BrokerImpl)
+
+46
+refresh version entiti lock pessimist lock incorrect except 
+2
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.setUp()
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.JDBCStoreManager.java.JDBCStoreManager.syncVersion(OpenJPAStateManager,Object)
+
+47
+attempt call em refresh javax persist lock timeout valu lock version entiti result non fatal optimist lock except optimisticlockexcept non fatal lock timeout except locktimeoutexcept thrown open jpa openjpa 
+2
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.setUp()
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.JDBCStoreManager.java.JDBCStoreManager.syncVersion(OpenJPAStateManager,Object)
+
+48
+refresh timeout lock 
+2
+openjpa-persistence-locking.src.test.java.org.apache.openjpa.persistence.lockmgr.TestPessimisticLocks.java.TestPessimisticLocks.setUp()
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.JDBCStoreManager.java.JDBCStoreManager.syncVersion(OpenJPAStateManager,Object)
+
+49
+invalid state except invalidstateexcept thrown merg entiti deriv identii 
+1
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.StateManagerImpl.java.StateManagerImpl.settingObjectField(PersistenceCapable,int,Object,Object,int)
+
+50
+openjpa snapshot r422266 nonfat user error org apach openjpa persist invalid state except invalidstateexcept attempt chang primari kei field instanc ha object id unflush instanc id retriev primari kei chang fail object failedobject org apach openjpa persist xs account hierarchi rate accountinghierarchyr test org apach openjpa kernel state manag impl statemanagerimpl primari kei chang assertnoprimarykeychang state manag impl statemanagerimpl java org apach openjpa kernel state manag impl statemanagerimpl set object field settingobjectfield state manag impl statemanagerimpl java org apach openjpa kernel attach strategi attachstrategi attach field attachfield attach strategi attachstrategi java org apach openjpa kernel version attach strategi versionattachstrategi attach version attach strategi versionattachstrategi java org apach openjpa kernel attach manag attachmanag attach attach manag attachmanag java org apach openjpa kernel attach strategi attachstrategi attach collect attachcollect attach strategi attachstrategi java org apach openjpa kernel attach strategi attachstrategi replac list replacelist attach strategi attachstrategi java org apach openjpa kernel attach strategi attachstrategi attach field attachfield attach strategi attachstrategi java org apach openjpa kernel version attach strategi versionattachstrategi attach version attach strategi versionattachstrategi java org apach openjpa kernel attach manag attachmanag attach attach manag attachmanag java org apach openjpa kernel attach manag attachmanag attach attach manag attachmanag java org apach openjpa kernel broker impl brokerimpl attach broker impl brokerimpl java org apach openjpa kernel deleg broker delegatingbrok attach deleg broker delegatingbrok java org apach openjpa persist entiti manag impl entitymanagerimpl merg entiti manag impl entitymanagerimpl java org apach openjpa persist xs test merg complex kei testmergecomplexkei test test merg complex kei testmergecomplexkei java 
+1
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.StateManagerImpl.java.StateManagerImpl.settingObjectField(PersistenceCapable,int,Object,Object,int)
+
+51
+state manag impl statemanagerimpl primari kei chang assertnoprimarykeychang 
+1
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.StateManagerImpl.java.StateManagerImpl.settingObjectField(PersistenceCapable,int,Object,Object,int)
+
+52
+set queri hint openjpa fetch plan fetchplan isol result mislead warn 
+1
+openjpa-persistence-jdbc.src.test.java.org.apache.openjpa.conf.TestQueryHints.java.TestQueryHints.testSupportedKeyBooleanValueConversion()
+
+53
+set queri hint openjpa fetch plan fetchplan isol queri result mislead warn print log warn main openjpa runtim openjpa fetch plan fetchplan isol support queri hint meant openjpa fetch plan fetchplan lr size lrssize support hint map jdbc persist product deriv jdbcpersistenceproductderiv add kei openjpa fetch plan fetchplan transact isol transactionisol incorrect ad openjpa fetch plan fetchplan isol note even warn issu provid databas support queri level isol level switch hint handler appli isol level queri 
+1
+openjpa-persistence-jdbc.src.test.java.org.apache.openjpa.conf.TestQueryHints.java.TestQueryHints.testSupportedKeyBooleanValueConversion()
+
+54
+jdbc persist product deriv jdbcpersistenceproductderiv fetch plan fetchplan 
+1
+openjpa-persistence-jdbc.src.test.java.org.apache.openjpa.conf.TestQueryHints.java.TestQueryHints.testSupportedKeyBooleanValueConversion()
+
+55
+postgr v9 issu claus escap string 
+5
+openjpa-persistence-jdbc.src.test.java.org.apache.openjpa.persistence.query.TestQueryEscapeCharacters.java.TestQueryEscapeCharacters.testDoubleSlashQuery()
+openjpa-persistence-jdbc.src.test.java.org.apache.openjpa.persistence.query.TestQueryEscapeCharacters.java.TestQueryEscapeCharacters.performFind(String,String,int)
+openjpa-persistence-jdbc.src.test.java.org.apache.openjpa.persistence.query.TestQueryEscapeCharacters.java.TestQueryEscapeCharacters.testDifferentEscapeCharacter()
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.PostgresDictionary.java.PostgresDictionary.connectedConfiguration(Connection)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.PostgresDictionary.java.PostgresDictionary.PostgresDictionary()
+
+56
+notic issu postgr db dictionari dbdictionari definit after updat postgr from version here get postgr trace file execut jpa driven queri sql involv bst error invalid escap string bst hint escap string empti on charact bst statement select t0 id t0 identif mask identificationmask t0 product name productnam from dbtype t0 t0 identif mask identificationmask escap bst error current transact abort command ignor end transact block appear down chang postgr project made escap string handl http www postgresql org doc releas html section appear abl overrid db dictionari dbdictionari set follow get thing work properti name openjpa jdbc db dictionari dbdictionari valu postgr search string escap searchstringescap mean open jpa openjpa version depend dictionari definit postgr from better solut care confirm ve post postgr jdbc mail list comment 
+5
+openjpa-persistence-jdbc.src.test.java.org.apache.openjpa.persistence.query.TestQueryEscapeCharacters.java.TestQueryEscapeCharacters.testDoubleSlashQuery()
+openjpa-persistence-jdbc.src.test.java.org.apache.openjpa.persistence.query.TestQueryEscapeCharacters.java.TestQueryEscapeCharacters.performFind(String,String,int)
+openjpa-persistence-jdbc.src.test.java.org.apache.openjpa.persistence.query.TestQueryEscapeCharacters.java.TestQueryEscapeCharacters.testDifferentEscapeCharacter()
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.PostgresDictionary.java.PostgresDictionary.connectedConfiguration(Connection)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.PostgresDictionary.java.PostgresDictionary.PostgresDictionary()
+
+57
+postgr db dictionari dbdictionari escap 
+5
+openjpa-persistence-jdbc.src.test.java.org.apache.openjpa.persistence.query.TestQueryEscapeCharacters.java.TestQueryEscapeCharacters.testDoubleSlashQuery()
+openjpa-persistence-jdbc.src.test.java.org.apache.openjpa.persistence.query.TestQueryEscapeCharacters.java.TestQueryEscapeCharacters.performFind(String,String,int)
+openjpa-persistence-jdbc.src.test.java.org.apache.openjpa.persistence.query.TestQueryEscapeCharacters.java.TestQueryEscapeCharacters.testDifferentEscapeCharacter()
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.PostgresDictionary.java.PostgresDictionary.connectedConfiguration(Connection)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.PostgresDictionary.java.PostgresDictionary.PostgresDictionary()
+
+58
+prepar queri cach doesn current work correclti select statement 
+3
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.jpql.JPQLExpressionBuilder.java.JPQLExpressionBuilder.getQueryExpressions()
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.extractSelectExecutor(Object)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryCacheImpl.java.PreparedQueryCacheImpl.markUncachable(String,Exclusion)
+
+59
+problem upgrad from open jpa openjpa on servic execut follow queri id get prepar queri cach impl preparedquerycacheimpl get string id select distinct from employ em person em employe id employeeid employe id employeeid em org unit code orgunitcod org unit code orgunitcod em employ posit employmentposit employ posit employmentposit em start start befor startbefor em end end after endaft order famili name familynam asc execut servic time differ employ posit employmentposit param arrai list arraylist string get old cach param valu disabl behaviour persist xml properti name openjpa queri cach querycach valu didn work side effect order made queri work cach queri order fix after write unit test jeremi point get fix set properti name openjpa jdbc queri sql cach querysqlcach valu persist xml nontheless problemat bug hard find lead find wrong data applic problemat except 
+3
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.jpql.JPQLExpressionBuilder.java.JPQLExpressionBuilder.getQueryExpressions()
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.extractSelectExecutor(Object)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryCacheImpl.java.PreparedQueryCacheImpl.markUncachable(String,Exclusion)
+
+60
+queri cach 
+3
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.jpql.JPQLExpressionBuilder.java.JPQLExpressionBuilder.getQueryExpressions()
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.extractSelectExecutor(Object)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryCacheImpl.java.PreparedQueryCacheImpl.markUncachable(String,Exclusion)
+
+61
+addit sql alia gener queri subqueri caus incorrect row return oracl 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.SelectImpl.java.SelectImpl.crossJoin(Table,Table)
+
+62
+creat queri createqueri select from max queri entiti maxqueryent max queri map entiti maxquerymapent map map select criteria selectcriteria b3 map ref entiti refent revis select max revis from max queri entiti maxqueryent domain id domainid domain id domainid map revis select max map map revis from max queri map entiti maxquerymapent map map map map ref entiti refent map ref entiti refent oracl gener sql select t1 id t1 domain id domainid t1 revis from openjpa maxqueri mapent openjpa maxqueri mapent t0 openjpa maxqueri entiti openjpa maxqueri entiti t1 openjpa maxqueri mapent openjpa maxqueri mapent t4 t0 select criteria selectcriteria t0 ref entiti refent t1 id t1 revis select max t2 revis from openjpa maxqueri entiti openjpa maxqueri entiti t2 t2 domain id domainid t1 domain id domainid t0 revis select max t3 revis from openjpa maxqueri mapent openjpa maxqueri mapent t3 t3 ref entiti refent t4 ref entiti refent param string b3 addit alia openjpa maxqueri mapent openjpa maxqueri mapent t4 caus more unexpect row 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.SelectImpl.java.SelectImpl.crossJoin(Table,Table)
+
+63
+entiti manag creat queri createqueri 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.SelectImpl.java.SelectImpl.crossJoin(Table,Table)
+
+64
+extra queri gener cascad persist 
+3
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.SingleFieldManager.java.SingleFieldManager.preFlushPC(ValueMetaData,Object,boolean,OpCallbacks)
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.SingleFieldManager.java.SingleFieldManager.SingleFieldManager(StateManagerImpl,BrokerImpl)
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.BrokerImpl.java.BrokerImpl.isDetached(Object)
+
+65
+found scenario extra queri gener cascad persist entiti follow exampl entiti cascad persist entiti cascadepersistent serializ serial version uid serialversionuid id id on on onetoon cascad cascad type cascadetyp cascad persist entiti cascadepersistent follow scenario cascad persist entiti cascadepersistent cpe1 cascad persist entiti cascadepersistent cascad persist entiti cascadepersistent cpe2 cascad persist entiti cascadepersistent cpe1 set setoth cpe2 em persist cpe1 result two insert on select extra select get rid jira 
+3
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.SingleFieldManager.java.SingleFieldManager.preFlushPC(ValueMetaData,Object,boolean,OpCallbacks)
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.SingleFieldManager.java.SingleFieldManager.SingleFieldManager(StateManagerImpl,BrokerImpl)
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.BrokerImpl.java.BrokerImpl.isDetached(Object)
+
+66
+cascad persist 
+3
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.SingleFieldManager.java.SingleFieldManager.preFlushPC(ValueMetaData,Object,boolean,OpCallbacks)
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.SingleFieldManager.java.SingleFieldManager.SingleFieldManager(StateManagerImpl,BrokerImpl)
+openjpa-kernel.src.main.java.org.apache.openjpa.kernel.BrokerImpl.java.BrokerImpl.isDetached(Object)
+
+67
+nest classpath ignor map tool ant task 
+6
+openjpa-lib.src.main.java.org.apache.openjpa.lib.conf.Configurations.java.Configurations.populateConfiguration(Configuration,Options)
+openjpa-lib.src.main.java.org.apache.openjpa.lib.conf.ConfigurationImpl.java.ConfigurationImpl.setPropertiesFile(File)
+openjpa-lib.src.main.java.org.apache.openjpa.lib.conf.ConfigurationImpl.java.ConfigurationImpl.setProperties(String)
+openjpa-lib.src.main.java.org.apache.openjpa.lib.ant.AbstractTask.java.AbstractTask.getConfiguration()
+openjpa-lib.src.main.java.org.apache.openjpa.lib.ant.AbstractTask.java.AbstractTask.execute()
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.PersistenceProductDerivation.java.PersistenceProductDerivation.load(ConfigurationProviderImpl,String,String,Map,ClassLoader,boolean)
+
+68
+nest classpath element insid mappingtool ant task ignor load persist configur file user follow error openjpa snapshot r422266 fatal user error org apach openjpa util meta data except metadataexcept meta data factori metadatafactori configur conf meta data factori instanc newmetadatafactoryinst return mean configur properti found ensur meta inf persist xml file avail classpath properti file configur avail ant properti properti file propertiesfil attribut task nest config element occur open jpa openjpa distribut jar corrupt secur polici overli strict 
+6
+openjpa-lib.src.main.java.org.apache.openjpa.lib.conf.Configurations.java.Configurations.populateConfiguration(Configuration,Options)
+openjpa-lib.src.main.java.org.apache.openjpa.lib.conf.ConfigurationImpl.java.ConfigurationImpl.setPropertiesFile(File)
+openjpa-lib.src.main.java.org.apache.openjpa.lib.conf.ConfigurationImpl.java.ConfigurationImpl.setProperties(String)
+openjpa-lib.src.main.java.org.apache.openjpa.lib.ant.AbstractTask.java.AbstractTask.getConfiguration()
+openjpa-lib.src.main.java.org.apache.openjpa.lib.ant.AbstractTask.java.AbstractTask.execute()
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.PersistenceProductDerivation.java.PersistenceProductDerivation.load(ConfigurationProviderImpl,String,String,Map,ClassLoader,boolean)
+
+69
+meta data factori instanc newmetadatafactoryinst 
+6
+openjpa-lib.src.main.java.org.apache.openjpa.lib.conf.Configurations.java.Configurations.populateConfiguration(Configuration,Options)
+openjpa-lib.src.main.java.org.apache.openjpa.lib.conf.ConfigurationImpl.java.ConfigurationImpl.setPropertiesFile(File)
+openjpa-lib.src.main.java.org.apache.openjpa.lib.conf.ConfigurationImpl.java.ConfigurationImpl.setProperties(String)
+openjpa-lib.src.main.java.org.apache.openjpa.lib.ant.AbstractTask.java.AbstractTask.getConfiguration()
+openjpa-lib.src.main.java.org.apache.openjpa.lib.ant.AbstractTask.java.AbstractTask.execute()
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.PersistenceProductDerivation.java.PersistenceProductDerivation.load(ConfigurationProviderImpl,String,String,Map,ClassLoader,boolean)
+
+70
+problem firebird sequenc creation 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.FirebirdDictionary.java.FirebirdDictionary.getSequencesSQL(DBIdentifier,DBIdentifier)
+
+71
+creat simpl entiti entiti ana anagrafica ana anagrafica serializ serial version uid serialversionuid id sequenc gener sequencegener name ana anagrafica gen ana anagrafica gen id gener valu generatedvalu strategi gener type generationtyp sequenc gener ana anagrafica gen ana anagrafica gen get id getid id set id setid id id id sequenc creation sql return from firebird dictionari firebirddictionari wrong method overrid string get sequenc sql getsequencessql db identifi dbidentifi schema name schemanam db identifi dbidentifi sequenc name sequencenam string builder stringbuild buf string builder stringbuild sequenc sql sequencesql sequenc name sequencenam buf append sequenc name sql sequencenamesql buf string tostr overrid string get sequenc sql getsequencessql db identifi dbidentifi schema name schemanam db identifi dbidentifi sequenc name sequencenam string builder stringbuild buf string builder stringbuild sequenc sql sequencesql db identifi dbidentifi isnul sequenc name sequencenam buf append sequenc name sql sequencenamesql buf string tostr 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.FirebirdDictionary.java.FirebirdDictionary.getSequencesSQL(DBIdentifier,DBIdentifier)
+
+72
+firebird dictionari firebirddictionari get sequenc sql getsequencessql 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.FirebirdDictionary.java.FirebirdDictionary.getSequencesSQL(DBIdentifier,DBIdentifier)
+
+73
+element collect elementcollect contain embedd blob valu fail oracl 
+6
+openjpa-persistence-jdbc.src.test.java.org.apache.openjpa.persistence.jdbc.annotations.TestEJBEmbedded.java.TestEJBEmbedded.testEmbedded()
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.MappingRepository.java.MappingRepository.defaultStrategy(FieldMapping,boolean,boolean)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.strats.MaxEmbeddedClobFieldStrategy.java.MaxEmbeddedClobFieldStrategy.update(OpenJPAStateManager,Row)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.strats.MaxEmbeddedByteArrayFieldStrategy.java.MaxEmbeddedByteArrayFieldStrategy.update(OpenJPAStateManager,Row)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.strats.EmbedValueHandler.java.EmbedValueHandler.toDataStoreValue1(OpenJPAStateManager,ValueMapping,JDBCStore,Column[],List,int)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.strats.MaxEmbeddedLobFieldStrategy.java.MaxEmbeddedLobFieldStrategy.map(boolean)
+
+74
+element collect contain embedd lob field fail oracl openjpa snapshot runknown fatal user error org apach openjpa persist argument except argumentexcept org apach openjpa persist jdbc annot emb owner embedown emb collect embedcollect element org apach openjpa persist jdbc annot emb valu embedvalu map embed embed field org apach openjpa persist jdbc annot emb owner embedown emb collect embedcollect org apach openjpa persist jdbc annot emb valu embedvalu blob embedd embed element kei valu type limit simpl field direct relat persist type 
+6
+openjpa-persistence-jdbc.src.test.java.org.apache.openjpa.persistence.jdbc.annotations.TestEJBEmbedded.java.TestEJBEmbedded.testEmbedded()
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.MappingRepository.java.MappingRepository.defaultStrategy(FieldMapping,boolean,boolean)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.strats.MaxEmbeddedClobFieldStrategy.java.MaxEmbeddedClobFieldStrategy.update(OpenJPAStateManager,Row)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.strats.MaxEmbeddedByteArrayFieldStrategy.java.MaxEmbeddedByteArrayFieldStrategy.update(OpenJPAStateManager,Row)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.strats.EmbedValueHandler.java.EmbedValueHandler.toDataStoreValue1(OpenJPAStateManager,ValueMapping,JDBCStore,Column[],List,int)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.strats.MaxEmbeddedLobFieldStrategy.java.MaxEmbeddedLobFieldStrategy.map(boolean)
+
+75
+emb valu blob 
+6
+openjpa-persistence-jdbc.src.test.java.org.apache.openjpa.persistence.jdbc.annotations.TestEJBEmbedded.java.TestEJBEmbedded.testEmbedded()
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.MappingRepository.java.MappingRepository.defaultStrategy(FieldMapping,boolean,boolean)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.strats.MaxEmbeddedClobFieldStrategy.java.MaxEmbeddedClobFieldStrategy.update(OpenJPAStateManager,Row)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.strats.MaxEmbeddedByteArrayFieldStrategy.java.MaxEmbeddedByteArrayFieldStrategy.update(OpenJPAStateManager,Row)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.strats.EmbedValueHandler.java.EmbedValueHandler.toDataStoreValue1(OpenJPAStateManager,ValueMapping,JDBCStore,Column[],List,int)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.strats.MaxEmbeddedLobFieldStrategy.java.MaxEmbeddedLobFieldStrategy.map(boolean)
+
+76
+prepar sql queri handl collect valu paramet persist capabl object 
+2
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.reparametrize(Map,Broker)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.setCollectionValuedParameter(Map<Integer,Object>,Collection,int[],Object)
+
+77
+patrick linskei wrote ran bug prepar sql code prepar queri impl preparedqueryimpl reparameter follow code impl helper implhelp manag ismanag val set persist capabl paramet setpersistencecapableparamet result val indic broker val collect set collect valu paramet setcollectionvaluedparamet result collect val indic kei work paramet collect persist capabl object set collect valu paramet setcollectionvaluedparamet assum valu pc 
+2
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.reparametrize(Map,Broker)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.setCollectionValuedParameter(Map<Integer,Object>,Collection,int[],Object)
+
+78
+prepar queri impl preparedqueryimpl reparameter 
+2
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.reparametrize(Map,Broker)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.setCollectionValuedParameter(Map<Integer,Object>,Collection,int[],Object)
+
+79
+index identifi max length db2 v9 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.DB2Dictionary.java.DB2Dictionary.DB2Dictionary()
+
+80
+index indentifi limit db2 db2 v9 earlier version db2 detect db2 level dictionari matter set appropri valu 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.DB2Dictionary.java.DB2Dictionary.DB2Dictionary()
+
+81
+db2 length index dictionari 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.sql.DB2Dictionary.java.DB2Dictionary.DB2Dictionary()
+
+82
+index bound except indexoutofboundsexcept batch prepar statement manag impl batchingpreparedstatementmanagerimpl 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.BatchingPreparedStatementManagerImpl.java.BatchingPreparedStatementManagerImpl.flushBatch()
+
+83
+rare condit batch row batchedrow batch prepar statement manag empti time process sql except sqlexcept index bound except indexoutofboundsexcept occur 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.BatchingPreparedStatementManagerImpl.java.BatchingPreparedStatementManagerImpl.flushBatch()
+
+84
+batch prepar statement manag impl batchingpreparedstatementmanagerimpl batch row batchedrow 
+1
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.BatchingPreparedStatementManagerImpl.java.BatchingPreparedStatementManagerImpl.flushBatch()
+
+85
+prevent repars annot metadata queri 
+1
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.XMLPersistenceMetaDataParser.java.XMLPersistenceMetaDataParser.startClass(String,Attributes)
+
+86
+pars entiti annot process queri meta data overrid map inform from xml map file ad compat option disabl process resolv problem 
+1
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.XMLPersistenceMetaDataParser.java.XMLPersistenceMetaDataParser.startClass(String,Attributes)
+
+87
+queri metadata pars 
+1
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.XMLPersistenceMetaDataParser.java.XMLPersistenceMetaDataParser.startClass(String,Attributes)
+
+88
+criteria function add wrong cast paramet make unsuabl 
+3
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.exps.DatastoreFunction.java.DatastoreFunction.appendTo(Select,ExpContext,ExpState,SQLBuffer,int)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.exps.Args.java.Args.appendTo(Select,ExpContext,ExpState,SQLBuffer,int)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.exps.UnaryOp.java.UnaryOp.appendTo(Select,ExpContext,ExpState,SQLBuffer,int)
+
+89
+criteria function gener sql last paramet cast wrong type express string st point func stpointfunc cb function db2 gse db2gse st point st point string cb liter cb liter cb liter express distanc func distancefunc cb function db2 gse db2gse st distanc st distanc st point func stpointfunc user locat usersloc get locat criteria queri criteriaqueri select user locat usersloc cb lessthan distanc func distancefunc cb liter gener follow sql db2 gse db2gse st distanc st distanc db2 gse db2gse st point st point cast t0 locat notic paramet integ cast problem org apach openjpa jdbc kernel exp datastor function datastorefunct append appendto line arg append appendto sel ctx state sql append sql buffer db2 gse db2gse st distanc st distanc db2 gse db2gse st point st point loop line val length sql add cast param addcastforparam get getoper val db2 gse db2gse st distanc st distanc db2 gse db2gse st point st point cast start second paramet first on whil sql add cast param addcastforparam work last sql buffer mean cast param index ad last method issu leav criteria function useless extend db dictionari dbdictionari remov cast work function ambigu advanc found temporari work ugli workaround express string st point func stpointfunc cb function db2 gse db2gse st point st point string cb coalesc cb liter cb liter cb coalesc cb liter cb liter cb coalesc cb liter cb liter coalesc us raw valu paramet make work valu twice becuas put cb liter nullliter get pointer except nullpointerexcept bug 
+3
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.exps.DatastoreFunction.java.DatastoreFunction.appendTo(Select,ExpContext,ExpState,SQLBuffer,int)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.exps.Args.java.Args.appendTo(Select,ExpContext,ExpState,SQLBuffer,int)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.exps.UnaryOp.java.UnaryOp.appendTo(Select,ExpContext,ExpState,SQLBuffer,int)
+
+90
+criteria function 
+3
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.exps.DatastoreFunction.java.DatastoreFunction.appendTo(Select,ExpContext,ExpState,SQLBuffer,int)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.exps.Args.java.Args.appendTo(Select,ExpContext,ExpState,SQLBuffer,int)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.exps.UnaryOp.java.UnaryOp.appendTo(Select,ExpContext,ExpState,SQLBuffer,int)
+
+91
+queri work first time execut 
+4
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.setCollectionValuedParameter(Map<Integer,Object>,Collection,int[],Object)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.setPersistenceCapableParameter(Map<Integer,Object>,Object,int[],Broker)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.setUserParameterPositions(List)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.reparametrize(Map,Broker)
+
+92
+problem applic queri return data reduc code eclips project avail http ubuntuon com s9n open jpa openjpa daili snapshot from process derbi databas basic two entiti us multipl id produc primari kei prei contain foreign kei websit entiti id idclass mandant name ident mandantandnameident websit id string mandant id string name entiti id idclass websit produkt datum ident websiteproduktdatumident prei id on manytoon cascad cascad type cascadetyp merg websit websit id basic string datum us follow set up websit prei em get transact gettransact begin websit websit em merg websit mandant websit em merg prei websit datum em get transact gettransact commit run queri follow type queri typedqueri prei em creat queri createqueri select from prei websit name websit prei set paramet setparamet websit websit get name getnam queri work time note us websit name match full websit object put queri type queri typedqueri prei em creat queri createqueri select from prei websit websit prei set paramet setparamet websit websit work result more testcas data access verifi test dataaccessverifytest detail discuss mailinglist bug 
+4
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.setCollectionValuedParameter(Map<Integer,Object>,Collection,int[],Object)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.setPersistenceCapableParameter(Map<Integer,Object>,Object,int[],Broker)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.setUserParameterPositions(List)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.reparametrize(Map,Broker)
+
+93
+data access verifi test dataaccessverifytest queri 
+4
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.setCollectionValuedParameter(Map<Integer,Object>,Collection,int[],Object)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.setPersistenceCapableParameter(Map<Integer,Object>,Object,int[],Broker)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.setUserParameterPositions(List)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.kernel.PreparedQueryImpl.java.PreparedQueryImpl.reparametrize(Map,Broker)
+
+94
+duplic meta data warn log pars locat twice 
+15
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.QueryMetaData.java.QueryMetaData.setSource(File,Object,int)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.ClassMetaData.java.ClassMetaData.setSource(File,int)
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.XMLPersistenceMetaDataParser.java.XMLPersistenceMetaDataParser.startClass(String,Attributes)
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.XMLPersistenceMetaDataParser.java.XMLPersistenceMetaDataParser.startNamedQuery(Attributes)
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.XMLPersistenceMetaDataParser.java.XMLPersistenceMetaDataParser.startNamedNativeQuery(Attributes)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.AbstractCFMetaDataFactory.java.AbstractCFMetaDataFactory.setSourceFile(ClassMetaData,File)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.AbstractCFMetaDataFactory.java.AbstractCFMetaDataFactory.assignDefaultQueryFiles(QueryMetaData[],Map)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.AbstractCFMetaDataFactory.java.AbstractCFMetaDataFactory.assignDefaultMetaDataFiles(ClassMetaData[],QueryMetaData[],SequenceMetaData[],int,Map)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.MetaDataTool.java.MetaDataTool.add(Class)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.MetaDataTool.java.MetaDataTool.record()
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.AnnotationPersistenceMetaDataParser.java.AnnotationPersistenceMetaDataParser.getMetaData()
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.AnnotationPersistenceMetaDataParser.java.AnnotationPersistenceMetaDataParser.parseNamedNativeQueries(AnnotatedElement,NamedNativeQuery[])
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.AnnotationPersistenceMetaDataParser.java.AnnotationPersistenceMetaDataParser.parseNamedQueries(AnnotatedElement,NamedQuery[])
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.MappingTool.java.MappingTool.record(MappingTool.Flags)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.MappingTool.java.MappingTool.addMeta(Class<?>)
+
+95
+ve entiti defin xml map file difficult replic classload environ xml map file pars more on time result mislead warn messag duplic metadata metadata fact ident problem detect condit store sourc file line number meta data defin issu warn metadata defin differ locat 
+15
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.QueryMetaData.java.QueryMetaData.setSource(File,Object,int)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.ClassMetaData.java.ClassMetaData.setSource(File,int)
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.XMLPersistenceMetaDataParser.java.XMLPersistenceMetaDataParser.startClass(String,Attributes)
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.XMLPersistenceMetaDataParser.java.XMLPersistenceMetaDataParser.startNamedQuery(Attributes)
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.XMLPersistenceMetaDataParser.java.XMLPersistenceMetaDataParser.startNamedNativeQuery(Attributes)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.AbstractCFMetaDataFactory.java.AbstractCFMetaDataFactory.setSourceFile(ClassMetaData,File)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.AbstractCFMetaDataFactory.java.AbstractCFMetaDataFactory.assignDefaultQueryFiles(QueryMetaData[],Map)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.AbstractCFMetaDataFactory.java.AbstractCFMetaDataFactory.assignDefaultMetaDataFiles(ClassMetaData[],QueryMetaData[],SequenceMetaData[],int,Map)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.MetaDataTool.java.MetaDataTool.add(Class)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.MetaDataTool.java.MetaDataTool.record()
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.AnnotationPersistenceMetaDataParser.java.AnnotationPersistenceMetaDataParser.getMetaData()
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.AnnotationPersistenceMetaDataParser.java.AnnotationPersistenceMetaDataParser.parseNamedNativeQueries(AnnotatedElement,NamedNativeQuery[])
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.AnnotationPersistenceMetaDataParser.java.AnnotationPersistenceMetaDataParser.parseNamedQueries(AnnotatedElement,NamedQuery[])
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.MappingTool.java.MappingTool.record(MappingTool.Flags)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.MappingTool.java.MappingTool.addMeta(Class<?>)
+
+96
+metadata xml file pars 
+15
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.QueryMetaData.java.QueryMetaData.setSource(File,Object,int)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.ClassMetaData.java.ClassMetaData.setSource(File,int)
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.XMLPersistenceMetaDataParser.java.XMLPersistenceMetaDataParser.startClass(String,Attributes)
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.XMLPersistenceMetaDataParser.java.XMLPersistenceMetaDataParser.startNamedQuery(Attributes)
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.XMLPersistenceMetaDataParser.java.XMLPersistenceMetaDataParser.startNamedNativeQuery(Attributes)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.AbstractCFMetaDataFactory.java.AbstractCFMetaDataFactory.setSourceFile(ClassMetaData,File)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.AbstractCFMetaDataFactory.java.AbstractCFMetaDataFactory.assignDefaultQueryFiles(QueryMetaData[],Map)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.AbstractCFMetaDataFactory.java.AbstractCFMetaDataFactory.assignDefaultMetaDataFiles(ClassMetaData[],QueryMetaData[],SequenceMetaData[],int,Map)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.MetaDataTool.java.MetaDataTool.add(Class)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.MetaDataTool.java.MetaDataTool.record()
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.AnnotationPersistenceMetaDataParser.java.AnnotationPersistenceMetaDataParser.getMetaData()
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.AnnotationPersistenceMetaDataParser.java.AnnotationPersistenceMetaDataParser.parseNamedNativeQueries(AnnotatedElement,NamedNativeQuery[])
+openjpa-persistence.src.main.java.org.apache.openjpa.persistence.AnnotationPersistenceMetaDataParser.java.AnnotationPersistenceMetaDataParser.parseNamedQueries(AnnotatedElement,NamedQuery[])
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.MappingTool.java.MappingTool.record(MappingTool.Flags)
+openjpa-jdbc.src.main.java.org.apache.openjpa.jdbc.meta.MappingTool.java.MappingTool.addMeta(Class<?>)
+
+97
+npe meta data repositori metadatarepositori preload enabl heavi stress 
+2
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.MetaDataRepository.java.MetaDataRepository.processRegisteredClasses(ClassLoader)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.MetaDataRepository.java.MetaDataRepository.register(Class<?>)
+
+98
+time window exist meta data repositori metadatarepositori follow npe encount incorrect assum call process regist class processregisteredclass end preload process regist class turn call process regist class instanc mdr care problem after mdr preload entiti belong differ pu regist pc registri pcregistri ad regist regist list caus java lang pointer except nullpointerexcept org apach openjpa meta meta data repositori metadatarepositori process regist class processregisteredclass meta data repositori metadatarepositori java org apach openjpa meta meta data classmetadata get pc subclass getpcsubclass meta data classmetadata java org apach openjpa meta meta data classmetadata get pc subclass meta data getpcsubclassmetadata meta data classmetadata java org apach openjpa meta meta data classmetadata get map pc subclass meta data getmappedpcsubclassmetadata meta data classmetadata java org apach openjpa jdbc meta map classmap get map pc subclass map getmappedpcsubclassmap map classmap java org apach openjpa jdbc meta map classmap get independ assign map getindependentassignablemap map classmap java org apach openjpa jdbc kernel jdbc store manag jdbcstoremanag initi state initializest jdbc store manag jdbcstoremanag java org apach openjpa jdbc kernel jdbc store manag jdbcstoremanag initi jdbc store manag jdbcstoremanag java com ibm ws persist jdbc kernel ws jpa jdbc store manag wsjpajdbcstoremanag initi ws jpa jdbc store manag wsjpajdbcstoremanag java org apach openjpa kernel deleg store manag delegatingstoremanag initi deleg store manag delegatingstoremanag java org apach openjpa kernel rop store manag ropstoremanag initi rop store manag ropstoremanag java org apach openjpa kernel broker impl brokerimpl initi broker impl brokerimpl java org apach openjpa kernel broker impl brokerimpl find broker impl brokerimpl java more 
+2
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.MetaDataRepository.java.MetaDataRepository.processRegisteredClasses(ClassLoader)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.MetaDataRepository.java.MetaDataRepository.register(Class<?>)
+
+99
+meta data repositori metadatarepositori process regist class processregisteredclass 
+2
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.MetaDataRepository.java.MetaDataRepository.processRegisteredClasses(ClassLoader)
+openjpa-kernel.src.main.java.org.apache.openjpa.meta.MetaDataRepository.java.MetaDataRepository.register(Class<?>)

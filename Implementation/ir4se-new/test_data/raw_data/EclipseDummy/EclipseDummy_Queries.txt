@@ -1,0 +1,21 @@
+12118
+ssh client server revis connect
+1
+plugins.org.eclipse.team.cvs.ssh.src.org.eclipse.team.internal.ccvs.ssh.client.java.client.connect(iprogressmonitor)
+
+1
+f11 option 
+2
+src.net.sourceforge.atunes.gui.views.dialogs.fullscreen.fullscreendialog.java.fullscreendialog.setfullscreen(boolean)
+src.net.sourceforge.atunes.gui.views.dialogs.fullscreen.fullscreendialog.java.fullscreendialog.setvisible(boolean)
+
+16787
+wizard recreat return page
+1
+plugins/org.eclipse.ui/Eclipse UI/org/eclipse/ui/internal/dialogs/NewWizardNewPage.java/NewWizardNewPage handlewizardselection(selectionchangedevent)
+
+
+19686
+java editor help file
+1
+plugins.org.eclipse.ui.eclipse jface text.org.eclipse.jface.text.textviewerhovermanager.java.textviewerhovermanager.computeinformation()

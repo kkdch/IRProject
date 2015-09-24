@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameters>
+	
+	<!-- General parameters (mandatory) -->
+	<param name="name_config">BM25-OpenJPA-2-0.75</param>
+	<param name="ret_model">BM25</param>
+	<param name="base_dir">C:/Users/ojcchar/Documents/Temp/ir_proj/Raw Data</param>
+	<param name="system">OpenJPA</param>
+	
+	<!-- Specific parameter model -->
+	<param name="k1">2</param>
+	<param name="b">0.75</param>
+	
+</parameters>
